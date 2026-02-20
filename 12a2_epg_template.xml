@@ -1,0 +1,3798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="EPG Template (channels only)">
+  <channel id="Apenas_um_Show_24H">
+    <display-name>Apenas um Show 24H</display-name>
+  </channel>
+  <channel id="As_aventuras_de_Jackie_Chan_24H">
+    <display-name>As aventuras de Jackie Chan 24H</display-name>
+  </channel>
+  <channel id="Ben_10_24H">
+    <display-name>Ben 10 24H</display-name>
+  </channel>
+  <channel id="Bibo_Pai_e_Bob_Filho_24H">
+    <display-name>Bibo Pai e Bob Filho 24H</display-name>
+  </channel>
+  <channel id="Billy_and_Mandy_24H">
+    <display-name>Billy and Mandy 24H</display-name>
+  </channel>
+  <channel id="Black_Kamen_Rider_24H">
+    <display-name>Black Kamen Rider 24H</display-name>
+  </channel>
+  <channel id="Bob_Esponja_24H">
+    <display-name>Bob Esponja 24H</display-name>
+  </channel>
+  <channel id="Caillou_24H">
+    <display-name>Caillou 24H</display-name>
+  </channel>
+  <channel id="Capitao_Planeta_24H">
+    <display-name>Capitao Planeta 24H</display-name>
+  </channel>
+  <channel id="Carl_o_Super_Caminhao_24H">
+    <display-name>Carl o Super Caminhao 24H</display-name>
+  </channel>
+  <channel id="Cavaleiros_dos_Zodiacos_24H_Saga_Doze_Casas">
+    <display-name>Cavaleiros dos Zodiacos 24H Saga Doze Casas</display-name>
+  </channel>
+  <channel id="Cavaleiros_Zodiaco_24h">
+    <display-name>Cavaleiros Zodiaco 24h</display-name>
+  </channel>
+  <channel id="Cavalo_de_Fogo_24H">
+    <display-name>Cavalo de Fogo 24H</display-name>
+  </channel>
+  <channel id="Changeman_24H">
+    <display-name>Changeman 24H</display-name>
+  </channel>
+  <channel id="Chapolin_24H">
+    <display-name>Chapolin 24H</display-name>
+  </channel>
+  <channel id="Chaves_24H">
+    <display-name>Chaves 24H</display-name>
+  </channel>
+  <channel id="Clarencio_o_Otimista_24H">
+    <display-name>Clarêncio o Otimista 24H</display-name>
+  </channel>
+  <channel id="Coragem_o_Cao_Covarde_24H">
+    <display-name>Coragem o Cão Covarde 24H</display-name>
+  </channel>
+  <channel id="Corrida_Maluca_24H">
+    <display-name>Corrida Maluca 24H</display-name>
+  </channel>
+  <channel id="Daniel_Tigre_24H">
+    <display-name>Daniel Tigre 24H</display-name>
+  </channel>
+  <channel id="DC_Comics_24H">
+    <display-name>DC Comics 24H</display-name>
+  </channel>
+  <channel id="Desenhos_Biblicos_24H">
+    <display-name>Desenhos Biblicos 24H</display-name>
+  </channel>
+  <channel id="Du_Dudu_e_Edu_24H">
+    <display-name>Du Dudu e Edu 24H</display-name>
+  </channel>
+  <channel id="Duck_Tales_24H">
+    <display-name>Duck Tales 24H</display-name>
+  </channel>
+  <channel id="Eu_a_Patroa_e_as_Criancas_24H">
+    <display-name>Eu a Patroa e as Crianças 24H</display-name>
+  </channel>
+  <channel id="Familia_da_Pesada_Family_Guy_24H">
+    <display-name>Familia da Pesada (Family Guy) 24H</display-name>
+  </channel>
+  <channel id="Familia_Dinossauro_24H">
+    <display-name>Familia Dinossauro 24H</display-name>
+  </channel>
+  <channel id="Festival_Sertanejo_24H">
+    <display-name>Festival Sertanejo 24H</display-name>
+  </channel>
+  <channel id="FJr_e_Os_Impossiveis_24H">
+    <display-name>FJr e Os Impossiveis 24H</display-name>
+  </channel>
+  <channel id="Flashman_24H">
+    <display-name>Flashman 24H</display-name>
+  </channel>
+  <channel id="FLY_o_Pequeno_Guerreiro_24H">
+    <display-name>FLY o Pequeno Guerreiro 24H</display-name>
+  </channel>
+  <channel id="Friends_24H">
+    <display-name>Friends 24H</display-name>
+  </channel>
+  <channel id="Galinha_Pintadinha_24H">
+    <display-name>Galinha Pintadinha 24H</display-name>
+  </channel>
+  <channel id="He-man_24H">
+    <display-name>He-man 24H</display-name>
+  </channel>
+  <channel id="Hora_de_Aventura_24H">
+    <display-name>Hora de Aventura 24H</display-name>
+  </channel>
+  <channel id="Jambo_e_Ruivao_24H">
+    <display-name>Jambo e Ruivao 24H</display-name>
+  </channel>
+  <channel id="Jaspion_24H">
+    <display-name>Jaspion 24H</display-name>
+  </channel>
+  <channel id="Jovens_Titans_24H">
+    <display-name>Jovens Titans 24H</display-name>
+  </channel>
+  <channel id="Kenan_e_Kel_24H">
+    <display-name>Kenan e Kel 24H</display-name>
+  </channel>
+  <channel id="Liga_da_Justica_24H">
+    <display-name>Liga da Justiça 24H</display-name>
+  </channel>
+  <channel id="Luluzinha_24H">
+    <display-name>Luluzinha 24H</display-name>
+  </channel>
+  <channel id="Maguila_o_Gorila">
+    <display-name>Maguila o Gorila</display-name>
+  </channel>
+  <channel id="Manda_Chuva_24H">
+    <display-name>Manda Chuva 24H</display-name>
+  </channel>
+  <channel id="Marvel_24H">
+    <display-name>Marvel 24H</display-name>
+  </channel>
+  <channel id="Masha_e_o_Urso_24H">
+    <display-name>Masha e o Urso 24H</display-name>
+  </channel>
+  <channel id="Meu_Amigaozao_24H">
+    <display-name>Meu Amigãozão 24H</display-name>
+  </channel>
+  <channel id="Mickey_e_Donald_24H">
+    <display-name>Mickey e Donald 24H</display-name>
+  </channel>
+  <channel id="Miraculous_LadyBug_24H">
+    <display-name>Miraculous LadyBug 24H</display-name>
+  </channel>
+  <channel id="MMM_24H">
+    <display-name>MMM 24H</display-name>
+  </channel>
+  <channel id="Mr._Bean_24H">
+    <display-name>Mr. Bean 24H</display-name>
+  </channel>
+  <channel id="Mundo_Bita_24H">
+    <display-name>Mundo Bita 24H</display-name>
+  </channel>
+  <channel id="Muppets_Babies_24H">
+    <display-name>Muppets Babies 24H</display-name>
+  </channel>
+  <channel id="O_Incrivel_Mundo_de_Gumball_24H">
+    <display-name>O Incrível Mundo de Gumball 24H</display-name>
+  </channel>
+  <channel id="O_Mascara_24H">
+    <display-name>O Mascara 24H</display-name>
+  </channel>
+  <channel id="Os_Backyardigans_24H">
+    <display-name>Os Backyardigans 24H</display-name>
+  </channel>
+  <channel id="Os_Jetsons_24H">
+    <display-name>Os Jetsons 24H</display-name>
+  </channel>
+  <channel id="Os_Simpsons">
+    <display-name>Os Simpsons</display-name>
+  </channel>
+  <channel id="Os_Trapalhoes_24H">
+    <display-name>Os Trapalhões 24H</display-name>
+  </channel>
+  <channel id="Patati_e_Patata_24H">
+    <display-name>Patati e Patata 24H</display-name>
+  </channel>
+  <channel id="Patrula_Canina_24H">
+    <display-name>Patrula Canina 24H</display-name>
+  </channel>
+  <channel id="Pegue_o_Pombo_24H">
+    <display-name>Pegue o Pombo 24H</display-name>
+  </channel>
+  <channel id="Pepe_Legal_24H">
+    <display-name>Pepe Legal 24H</display-name>
+  </channel>
+  <channel id="Peppa_Pig_24H">
+    <display-name>Peppa Pig 24H</display-name>
+  </channel>
+  <channel id="Pica_Pau_24H">
+    <display-name>Pica Pau 24H</display-name>
+  </channel>
+  <channel id="PJ_Masks_24H">
+    <display-name>PJ Masks 24H</display-name>
+  </channel>
+  <channel id="Pole_Position_24H">
+    <display-name>Pole Position 24H</display-name>
+  </channel>
+  <channel id="Popeye_24H">
+    <display-name>Popeye 24H</display-name>
+  </channel>
+  <channel id="Power_Rangers_24H">
+    <display-name>Power Rangers 24H</display-name>
+  </channel>
+  <channel id="Punk_a_Levada_da_Breca_24H">
+    <display-name>Punk a Levada da Breca 24H</display-name>
+  </channel>
+  <channel id="Scooby_Doo_24H">
+    <display-name>Scooby Doo 24H</display-name>
+  </channel>
+  <channel id="Show_da_Luna_24H">
+    <display-name>Show da Luna 24H</display-name>
+  </channel>
+  <channel id="South_Parks_24H">
+    <display-name>South Parks 24H</display-name>
+  </channel>
+  <channel id="Spectroman_24H">
+    <display-name>Spectroman 24H</display-name>
+  </channel>
+  <channel id="Supershock_24H">
+    <display-name>Supershock 24H</display-name>
+  </channel>
+  <channel id="Thundercats_24H">
+    <display-name>Thundercats 24H</display-name>
+  </channel>
+  <channel id="Tico_e_Teco_24H">
+    <display-name>Tico e Teco 24H</display-name>
+  </channel>
+  <channel id="Tom_e_Jerry_24H">
+    <display-name>Tom e Jerry 24H</display-name>
+  </channel>
+  <channel id="Turma_da_Monica_24H">
+    <display-name>Turma da Monica 24H</display-name>
+  </channel>
+  <channel id="Ultraman_24H">
+    <display-name>Ultraman 24H</display-name>
+  </channel>
+  <channel id="Yu_Yu_Hakusho_24H">
+    <display-name>Yu Yu Hakusho 24H</display-name>
+  </channel>
+  <channel id="Animal_Planet_4K">
+    <display-name>Animal Planet 4K</display-name>
+  </channel>
+  <channel id="Band_SP_4k">
+    <display-name>Band SP 4k</display-name>
+  </channel>
+  <channel id="Combate_4K">
+    <display-name>Combate 4K</display-name>
+  </channel>
+  <channel id="Discovery_Channel_4K">
+    <display-name>Discovery Channel 4K</display-name>
+  </channel>
+  <channel id="ESPN_2_4K">
+    <display-name>ESPN 2 4K</display-name>
+  </channel>
+  <channel id="ESPN_4_4K">
+    <display-name>ESPN 4 4K</display-name>
+  </channel>
+  <channel id="ESPN_4K">
+    <display-name>ESPN 4K</display-name>
+  </channel>
+  <channel id="ESPN_5_4K">
+    <display-name>ESPN 5 4K</display-name>
+  </channel>
+  <channel id="Globo_4k">
+    <display-name>Globo 4k</display-name>
+  </channel>
+  <channel id="HBO_4K">
+    <display-name>HBO 4K</display-name>
+  </channel>
+  <channel id="HBO_Family_4K">
+    <display-name>HBO Family 4K</display-name>
+  </channel>
+  <channel id="HBO_Signature_4K">
+    <display-name>HBO Signature 4K</display-name>
+  </channel>
+  <channel id="History_4k">
+    <display-name>History 4k</display-name>
+  </channel>
+  <channel id="Megapix_4K">
+    <display-name>Megapix 4K</display-name>
+  </channel>
+  <channel id="Multishow_4K">
+    <display-name>Multishow 4K</display-name>
+  </channel>
+  <channel id="Premiere_Clubes_4K">
+    <display-name>Premiere Clubes 4K</display-name>
+  </channel>
+  <channel id="Record_4K">
+    <display-name>Record 4K</display-name>
+  </channel>
+  <channel id="SBT_4K">
+    <display-name>SBT 4K</display-name>
+  </channel>
+  <channel id="Space_4K">
+    <display-name>Space 4K</display-name>
+  </channel>
+  <channel id="SporTV_4k">
+    <display-name>SporTV 4k</display-name>
+  </channel>
+  <channel id="Telecine_Action_4K">
+    <display-name>Telecine Action 4K</display-name>
+  </channel>
+  <channel id="Telecine_Cult_4K">
+    <display-name>Telecine Cult 4K</display-name>
+  </channel>
+  <channel id="Telecine_Fun_4k">
+    <display-name>Telecine Fun 4k</display-name>
+  </channel>
+  <channel id="Telecine_Pipoca_4K">
+    <display-name>Telecine Pipoca 4K</display-name>
+  </channel>
+  <channel id="Telecine_Premium_4K">
+    <display-name>Telecine Premium 4K</display-name>
+  </channel>
+  <channel id="Telecine_Touch_4k">
+    <display-name>Telecine Touch 4k</display-name>
+  </channel>
+  <channel id="TNT_4K">
+    <display-name>TNT 4K</display-name>
+  </channel>
+  <channel id="TNT_Series_4K">
+    <display-name>TNT Series 4K</display-name>
+  </channel>
+  <channel id="Band_Rio">
+    <display-name>Band Rio</display-name>
+  </channel>
+  <channel id="Band_SP_FHD">
+    <display-name>Band SP FHD</display-name>
+  </channel>
+  <channel id="Band_SP_FHD_Alter">
+    <display-name>Band SP FHD [Alter]</display-name>
+  </channel>
+  <channel id="Band_SP_HD">
+    <display-name>Band SP HD</display-name>
+  </channel>
+  <channel id="Band_SP_HD_Alter">
+    <display-name>Band SP HD [Alter]</display-name>
+  </channel>
+  <channel id="Band_SP_SD">
+    <display-name>Band SP SD</display-name>
+  </channel>
+  <channel id="Band_SP_SD_Alter">
+    <display-name>Band SP SD [Alter]</display-name>
+  </channel>
+  <channel id="Canal_do_Boi_FHD">
+    <display-name>Canal do Boi FHD</display-name>
+  </channel>
+  <channel id="Canal_do_Boi_HD">
+    <display-name>Canal do Boi HD</display-name>
+  </channel>
+  <channel id="Canal_do_Boi_SD">
+    <display-name>Canal do Boi SD</display-name>
+  </channel>
+  <channel id="Canal_Rural_SD">
+    <display-name>Canal Rural SD</display-name>
+  </channel>
+  <channel id="Canal_Rural_SD_Alter">
+    <display-name>Canal Rural SD [Alter]</display-name>
+  </channel>
+  <channel id="Futura_HD">
+    <display-name>Futura HD</display-name>
+  </channel>
+  <channel id="Futura_HD_Alter">
+    <display-name>Futura HD [Alter]</display-name>
+  </channel>
+  <channel id="Futura_SD">
+    <display-name>Futura SD</display-name>
+  </channel>
+  <channel id="Futura_SD_Alter">
+    <display-name>Futura SD [Alter]</display-name>
+  </channel>
+  <channel id="Polishop_SD">
+    <display-name>Polishop SD</display-name>
+  </channel>
+  <channel id="Polishop_SD_Alter">
+    <display-name>Polishop SD [Alter]</display-name>
+  </channel>
+  <channel id="Rede_Brasil_SD">
+    <display-name>Rede Brasil SD</display-name>
+  </channel>
+  <channel id="Rede_TV_FHD">
+    <display-name>Rede TV FHD</display-name>
+  </channel>
+  <channel id="Rede_TV_FHD_Alter">
+    <display-name>Rede TV FHD [Alter]</display-name>
+  </channel>
+  <channel id="Rede_TV_HD">
+    <display-name>Rede TV HD</display-name>
+  </channel>
+  <channel id="Rede_TV_HD_Alter">
+    <display-name>Rede TV HD [Alter]</display-name>
+  </channel>
+  <channel id="Rede_TV_SD">
+    <display-name>Rede TV SD</display-name>
+  </channel>
+  <channel id="Rede_TV_SD_Alter">
+    <display-name>Rede TV SD [Alter]</display-name>
+  </channel>
+  <channel id="SBT_FHD">
+    <display-name>SBT FHD</display-name>
+  </channel>
+  <channel id="SBT_FHD_Alter">
+    <display-name>SBT FHD [Alter]</display-name>
+  </channel>
+  <channel id="SBT_HD">
+    <display-name>SBT HD</display-name>
+  </channel>
+  <channel id="SBT_HD_Alter">
+    <display-name>SBT HD [Alter]</display-name>
+  </channel>
+  <channel id="SBT_RJ_FHD">
+    <display-name>SBT RJ FHD</display-name>
+  </channel>
+  <channel id="SBT_RJ_HD">
+    <display-name>SBT RJ HD</display-name>
+  </channel>
+  <channel id="SBT_RJ_SD">
+    <display-name>SBT RJ SD</display-name>
+  </channel>
+  <channel id="SBT_SD">
+    <display-name>SBT SD</display-name>
+  </channel>
+  <channel id="SBT_SD_Alter">
+    <display-name>SBT SD [Alter]</display-name>
+  </channel>
+  <channel id="TCM_Mossoro">
+    <display-name>TCM Mossoro</display-name>
+  </channel>
+  <channel id="Terra_Viva_SD">
+    <display-name>Terra Viva SD</display-name>
+  </channel>
+  <channel id="Terra_Viva_SD_Alter">
+    <display-name>Terra Viva SD [Alter]</display-name>
+  </channel>
+  <channel id="TV_Brasil_SD">
+    <display-name>TV Brasil SD</display-name>
+  </channel>
+  <channel id="TV_Brasil_SD_Alter">
+    <display-name>TV Brasil SD [Alter]</display-name>
+  </channel>
+  <channel id="TV_Camara_SD">
+    <display-name>TV Camara SD</display-name>
+  </channel>
+  <channel id="TV_Camara_SD_Alter">
+    <display-name>TV Camara SD [Alter]</display-name>
+  </channel>
+  <channel id="TV_Cultura_FHD">
+    <display-name>TV Cultura FHD</display-name>
+  </channel>
+  <channel id="TV_Cultura_FHD_Alter">
+    <display-name>TV Cultura FHD [Alter]</display-name>
+  </channel>
+  <channel id="TV_Cultura_HD">
+    <display-name>TV Cultura HD</display-name>
+  </channel>
+  <channel id="TV_Cultura_HD_Alter">
+    <display-name>TV Cultura HD [Alter]</display-name>
+  </channel>
+  <channel id="TV_Cultura_SD">
+    <display-name>TV Cultura SD</display-name>
+  </channel>
+  <channel id="TV_Cultura_SD_Alter">
+    <display-name>TV Cultura SD [Alter]</display-name>
+  </channel>
+  <channel id="TV_Diario_SD">
+    <display-name>TV Diario SD</display-name>
+  </channel>
+  <channel id="TV_Escola_SD">
+    <display-name>TV Escola SD</display-name>
+  </channel>
+  <channel id="TV_Gazeta_SP_FHD">
+    <display-name>TV Gazeta SP FHD</display-name>
+  </channel>
+  <channel id="TV_Gazeta_SP_FHD_Alter">
+    <display-name>TV Gazeta SP FHD [Alter]</display-name>
+  </channel>
+  <channel id="Tv_Gazeta_SP_HD">
+    <display-name>Tv Gazeta SP HD</display-name>
+  </channel>
+  <channel id="TV_Gazeta_SP_HD_Alter">
+    <display-name>TV Gazeta SP HD [Alter]</display-name>
+  </channel>
+  <channel id="TV_Gazeta_SP_SD">
+    <display-name>TV Gazeta SP SD</display-name>
+  </channel>
+  <channel id="TV_Gazeta_SP_SD_Alter">
+    <display-name>TV Gazeta SP SD [Alter]</display-name>
+  </channel>
+  <channel id="Tv_Santa_Cecilia_SD">
+    <display-name>Tv Santa Cecilia SD</display-name>
+  </channel>
+  <channel id="TV_Senado_SD">
+    <display-name>TV Senado SD</display-name>
+  </channel>
+  <channel id="TV_Senado_SD_Alter">
+    <display-name>TV Senado SD [Alter]</display-name>
+  </channel>
+  <channel id="TV_Univesp_SD">
+    <display-name>TV Univesp SD</display-name>
+  </channel>
+  <channel id="A_Casa_das_Brasileirinhas_24_H">
+    <display-name>A Casa das Brasileirinhas 24 H</display-name>
+  </channel>
+  <channel id="BangBros_24H">
+    <display-name>BangBros 24H</display-name>
+  </channel>
+  <channel id="ForMan_-_Bang_Fuck_Me_24H">
+    <display-name>ForMan - Bang Fuck Me 24H</display-name>
+  </channel>
+  <channel id="ForMan_-_Big_Dick_24H">
+    <display-name>ForMan - Big Dick 24H</display-name>
+  </channel>
+  <channel id="ForMan_-_Bukkake_Frenzy_24H">
+    <display-name>ForMan - Bukkake Frenzy 24H</display-name>
+  </channel>
+  <channel id="ForMan_24H">
+    <display-name>ForMan 24H</display-name>
+  </channel>
+  <channel id="GangBang_24H">
+    <display-name>GangBang 24H</display-name>
+  </channel>
+  <channel id="Lesbian_Family_Affair_24H">
+    <display-name>Lesbian Family Affair 24H</display-name>
+  </channel>
+  <channel id="Playboy_FHD">
+    <display-name>Playboy FHD</display-name>
+  </channel>
+  <channel id="Playboy_FHD_Alter">
+    <display-name>Playboy FHD [Alter]</display-name>
+  </channel>
+  <channel id="Playboy_HD">
+    <display-name>Playboy HD</display-name>
+  </channel>
+  <channel id="Playboy_HD_Alter">
+    <display-name>Playboy HD [Alter]</display-name>
+  </channel>
+  <channel id="Playboy_SD">
+    <display-name>Playboy SD</display-name>
+  </channel>
+  <channel id="Playboy_SD_Alter">
+    <display-name>Playboy SD [Alter]</display-name>
+  </channel>
+  <channel id="Sex_Colection_Pub_24_H">
+    <display-name>Sex Colection Pub 24 H</display-name>
+  </channel>
+  <channel id="Sextreme_SD">
+    <display-name>Sextreme SD</display-name>
+  </channel>
+  <channel id="Sextreme_SD_Alter">
+    <display-name>Sextreme SD [Alter]</display-name>
+  </channel>
+  <channel id="Sexy_Hot_HD">
+    <display-name>Sexy Hot HD</display-name>
+  </channel>
+  <channel id="Sexy_Hot_HD_Alter">
+    <display-name>Sexy Hot HD [Alter]</display-name>
+  </channel>
+  <channel id="Sexy_Hot_SD">
+    <display-name>Sexy Hot SD</display-name>
+  </channel>
+  <channel id="Sexy_Hot_SD_Alter">
+    <display-name>Sexy Hot SD [Alter]</display-name>
+  </channel>
+  <channel id="Tiny_Sex_Colection_24_H">
+    <display-name>Tiny Sex Colection 24 H</display-name>
+  </channel>
+  <channel id="Trans">
+    <display-name>Trans</display-name>
+  </channel>
+  <channel id="Trans_2">
+    <display-name>Trans 2</display-name>
+  </channel>
+  <channel id="Trans_Addiction_24H">
+    <display-name>Trans Addiction 24H</display-name>
+  </channel>
+  <channel id="Venus_HD">
+    <display-name>Venus HD</display-name>
+  </channel>
+  <channel id="Venus_SD">
+    <display-name>Venus SD</display-name>
+  </channel>
+  <channel id="Venus_SD_Alter">
+    <display-name>Venus SD [Alter]</display-name>
+  </channel>
+  <channel id="Jogos_do_dia">
+    <display-name>Jogos do dia</display-name>
+  </channel>
+  <channel id="Novidades">
+    <display-name>Novidades</display-name>
+  </channel>
+  <channel id="Disney_1">
+    <display-name>Disney + 1</display-name>
+  </channel>
+  <channel id="Disney_1_Alter1">
+    <display-name>Disney + 1 [Alter¹]</display-name>
+  </channel>
+  <channel id="Disney_2">
+    <display-name>Disney + 2</display-name>
+  </channel>
+  <channel id="Disney_2_Alter2">
+    <display-name>Disney + 2 [Alter²]</display-name>
+  </channel>
+  <channel id="Disney_3">
+    <display-name>Disney + 3</display-name>
+  </channel>
+  <channel id="Disney_3_Alter3">
+    <display-name>Disney + 3 [Alter³]</display-name>
+  </channel>
+  <channel id="Disney_4">
+    <display-name>Disney + 4</display-name>
+  </channel>
+  <channel id="Animal_Planet_FHD">
+    <display-name>Animal Planet FHD</display-name>
+  </channel>
+  <channel id="Animal_Planet_FHD_Alter">
+    <display-name>Animal Planet FHD [Alter]</display-name>
+  </channel>
+  <channel id="Animal_Planet_HD">
+    <display-name>Animal Planet HD</display-name>
+  </channel>
+  <channel id="Animal_Planet_HD_Alter">
+    <display-name>Animal Planet HD [Alter]</display-name>
+  </channel>
+  <channel id="Animal_Planet_SD">
+    <display-name>Animal Planet SD</display-name>
+  </channel>
+  <channel id="Animal_Planet_SD_Alter">
+    <display-name>Animal Planet SD [Alter]</display-name>
+  </channel>
+  <channel id="Discovery_Channel_FHD">
+    <display-name>Discovery Channel FHD</display-name>
+  </channel>
+  <channel id="Discovery_Channel_FHD_Alter">
+    <display-name>Discovery Channel FHD [Alter]</display-name>
+  </channel>
+  <channel id="Discovery_Channel_HD">
+    <display-name>Discovery Channel HD</display-name>
+  </channel>
+  <channel id="Discovery_Channel_HD_Alter">
+    <display-name>Discovery Channel HD [Alter]</display-name>
+  </channel>
+  <channel id="Discovery_Channel_SD">
+    <display-name>Discovery Channel SD</display-name>
+  </channel>
+  <channel id="Discovery_Channel_SD_Alter">
+    <display-name>Discovery Channel SD [Alter]</display-name>
+  </channel>
+  <channel id="Discovery_Home_Health_FHD">
+    <display-name>Discovery Home Health FHD</display-name>
+  </channel>
+  <channel id="Discovery_Home_Health_FHD_Alter">
+    <display-name>Discovery Home Health FHD [Alter]</display-name>
+  </channel>
+  <channel id="Discovery_Home_Health_HD">
+    <display-name>Discovery Home Health HD</display-name>
+  </channel>
+  <channel id="Discovery_Home_Health_HD_Alter">
+    <display-name>Discovery Home Health HD [Alter]</display-name>
+  </channel>
+  <channel id="Discovery_Home_Health_SD">
+    <display-name>Discovery Home Health SD</display-name>
+  </channel>
+  <channel id="Discovery_Home_Health_SD_Alter">
+    <display-name>Discovery Home Health SD [Alter]</display-name>
+  </channel>
+  <channel id="Discovery_Science_FHD">
+    <display-name>Discovery Science FHD</display-name>
+  </channel>
+  <channel id="Discovery_Science_FHD_Alter">
+    <display-name>Discovery Science FHD [Alter]</display-name>
+  </channel>
+  <channel id="Discovery_Science_HD">
+    <display-name>Discovery Science HD</display-name>
+  </channel>
+  <channel id="Discovery_Science_HD_Alter">
+    <display-name>Discovery Science HD [Alter]</display-name>
+  </channel>
+  <channel id="Discovery_Science_SD">
+    <display-name>Discovery Science SD</display-name>
+  </channel>
+  <channel id="Discovery_Science_SD_Alter">
+    <display-name>Discovery Science SD [Alter]</display-name>
+  </channel>
+  <channel id="Discovery_Theater_FHD">
+    <display-name>Discovery Theater FHD</display-name>
+  </channel>
+  <channel id="Discovery_Theater_FHD_Alter">
+    <display-name>Discovery Theater FHD [Alter]</display-name>
+  </channel>
+  <channel id="Discovery_Theater_HD">
+    <display-name>Discovery Theater HD</display-name>
+  </channel>
+  <channel id="Discovery_Theater_HD_Alter">
+    <display-name>Discovery Theater HD [Alter]</display-name>
+  </channel>
+  <channel id="Discovery_Theater_SD">
+    <display-name>Discovery Theater SD</display-name>
+  </channel>
+  <channel id="Discovery_Theater_SD_Alter">
+    <display-name>Discovery Theater SD [Alter]</display-name>
+  </channel>
+  <channel id="Discovery_Turbo_FHD">
+    <display-name>Discovery Turbo FHD</display-name>
+  </channel>
+  <channel id="Discovery_Turbo_FHD_Alter">
+    <display-name>Discovery Turbo FHD [Alter]</display-name>
+  </channel>
+  <channel id="Discovery_Turbo_HD">
+    <display-name>Discovery Turbo HD</display-name>
+  </channel>
+  <channel id="Discovery_Turbo_HD_Alter">
+    <display-name>Discovery Turbo HD [Alter]</display-name>
+  </channel>
+  <channel id="Discovery_Turbo_SD">
+    <display-name>Discovery Turbo SD</display-name>
+  </channel>
+  <channel id="Discovery_Turbo_SD_Alter">
+    <display-name>Discovery Turbo SD [Alter]</display-name>
+  </channel>
+  <channel id="Discovery_World_FHD">
+    <display-name>Discovery World FHD</display-name>
+  </channel>
+  <channel id="Discovery_World_FHD_Alter">
+    <display-name>Discovery World FHD [Alter]</display-name>
+  </channel>
+  <channel id="Discovery_World_HD">
+    <display-name>Discovery World HD</display-name>
+  </channel>
+  <channel id="Discovery_World_HD_Alter">
+    <display-name>Discovery World HD [Alter]</display-name>
+  </channel>
+  <channel id="Discovery_World_SD">
+    <display-name>Discovery World SD</display-name>
+  </channel>
+  <channel id="Discovery_World_SD_Alter">
+    <display-name>Discovery World SD [Alter]</display-name>
+  </channel>
+  <channel id="H2_FHD">
+    <display-name>H2 FHD</display-name>
+  </channel>
+  <channel id="H2_FHD_Alter">
+    <display-name>H2 FHD [Alter]</display-name>
+  </channel>
+  <channel id="H2_HD">
+    <display-name>H2 HD</display-name>
+  </channel>
+  <channel id="H2_HD_Alter">
+    <display-name>H2 HD [Alter]</display-name>
+  </channel>
+  <channel id="H2_SD">
+    <display-name>H2 SD</display-name>
+  </channel>
+  <channel id="H2_SD_Alter">
+    <display-name>H2 SD [Alter]</display-name>
+  </channel>
+  <channel id="HGTV_FHD">
+    <display-name>HGTV FHD</display-name>
+  </channel>
+  <channel id="HGTV_FHD_Alter">
+    <display-name>HGTV FHD [Alter]</display-name>
+  </channel>
+  <channel id="HGTV_HD">
+    <display-name>HGTV HD</display-name>
+  </channel>
+  <channel id="HGTV_HD_Alter">
+    <display-name>HGTV HD [Alter]</display-name>
+  </channel>
+  <channel id="HGTV_SD">
+    <display-name>HGTV SD</display-name>
+  </channel>
+  <channel id="HGTV_SD_Alter">
+    <display-name>HGTV SD [Alter]</display-name>
+  </channel>
+  <channel id="History_FHD">
+    <display-name>History FHD</display-name>
+  </channel>
+  <channel id="History_FHD_Alter">
+    <display-name>History FHD [Alter]</display-name>
+  </channel>
+  <channel id="History_HD">
+    <display-name>History HD</display-name>
+  </channel>
+  <channel id="History_HD_Alter">
+    <display-name>History HD [Alter]</display-name>
+  </channel>
+  <channel id="History_SD">
+    <display-name>History SD</display-name>
+  </channel>
+  <channel id="History_SD_Alter">
+    <display-name>History SD [Alter]</display-name>
+  </channel>
+  <channel id="Investigacao_Discovery_FHD">
+    <display-name>Investigacao Discovery FHD</display-name>
+  </channel>
+  <channel id="Investigacao_Discovery_FHD_Alter">
+    <display-name>Investigacao Discovery FHD [Alter]</display-name>
+  </channel>
+  <channel id="Investigacao_Discovery_HD">
+    <display-name>Investigacao Discovery HD</display-name>
+  </channel>
+  <channel id="Investigacao_Discovery_HD_Alter">
+    <display-name>Investigacao Discovery HD [Alter]</display-name>
+  </channel>
+  <channel id="Investigacao_Discovery_SD">
+    <display-name>Investigacao Discovery SD</display-name>
+  </channel>
+  <channel id="Investigacao_Discovery_SD_Alter">
+    <display-name>Investigacao Discovery SD [Alter]</display-name>
+  </channel>
+  <channel id="Sabor_e_Arte_FHD">
+    <display-name>Sabor e Arte FHD</display-name>
+  </channel>
+  <channel id="Sabor_e_Arte_HD">
+    <display-name>Sabor e Arte HD</display-name>
+  </channel>
+  <channel id="Sabor_e_Arte_SD">
+    <display-name>Sabor e Arte SD</display-name>
+  </channel>
+  <channel id="Band_Sports_FHD">
+    <display-name>Band Sports FHD</display-name>
+  </channel>
+  <channel id="Band_Sports_FHD_Alter">
+    <display-name>Band Sports FHD [Alter]</display-name>
+  </channel>
+  <channel id="Band_Sports_HD">
+    <display-name>Band Sports HD</display-name>
+  </channel>
+  <channel id="Band_Sports_HD_Alter">
+    <display-name>Band Sports HD [Alter]</display-name>
+  </channel>
+  <channel id="Band_Sports_SD">
+    <display-name>Band Sports SD</display-name>
+  </channel>
+  <channel id="Band_Sports_SD_Alter">
+    <display-name>Band Sports SD [Alter]</display-name>
+  </channel>
+  <channel id="Combate_FHD">
+    <display-name>Combate FHD</display-name>
+  </channel>
+  <channel id="Combate_FHD_Alter">
+    <display-name>Combate FHD [Alter]</display-name>
+  </channel>
+  <channel id="Combate_HD">
+    <display-name>Combate HD</display-name>
+  </channel>
+  <channel id="Combate_HD_Alter">
+    <display-name>Combate HD [Alter]</display-name>
+  </channel>
+  <channel id="Combate_SD">
+    <display-name>Combate SD</display-name>
+  </channel>
+  <channel id="Combate_SD_Alter">
+    <display-name>Combate SD [Alter]</display-name>
+  </channel>
+  <channel id="ESPN_2_FHD">
+    <display-name>ESPN 2 FHD</display-name>
+  </channel>
+  <channel id="ESPN_2_FHD_Alter">
+    <display-name>ESPN 2 FHD [Alter]</display-name>
+  </channel>
+  <channel id="ESPN_2_HD">
+    <display-name>ESPN 2 HD</display-name>
+  </channel>
+  <channel id="ESPN_2_HD_Alter">
+    <display-name>ESPN 2 HD [Alter]</display-name>
+  </channel>
+  <channel id="ESPN_2_SD">
+    <display-name>ESPN 2 SD</display-name>
+  </channel>
+  <channel id="ESPN_2_SD_Alter">
+    <display-name>ESPN 2 SD [Alter]</display-name>
+  </channel>
+  <channel id="ESPN_3_FHD">
+    <display-name>ESPN 3 FHD</display-name>
+  </channel>
+  <channel id="ESPN_3_HD">
+    <display-name>ESPN 3 HD</display-name>
+  </channel>
+  <channel id="ESPN_3_HD_Alter">
+    <display-name>ESPN 3 HD [Alter]</display-name>
+  </channel>
+  <channel id="ESPN_3_SD">
+    <display-name>ESPN 3 SD</display-name>
+  </channel>
+  <channel id="ESPN_3_SD_Alter">
+    <display-name>ESPN 3 SD [Alter]</display-name>
+  </channel>
+  <channel id="ESPN_4_FHD">
+    <display-name>ESPN 4 FHD</display-name>
+  </channel>
+  <channel id="ESPN_4_FHD_Alter">
+    <display-name>ESPN 4 FHD [Alter]</display-name>
+  </channel>
+  <channel id="ESPN_4_HD">
+    <display-name>ESPN 4 HD</display-name>
+  </channel>
+  <channel id="ESPN_4_HD_Alter">
+    <display-name>ESPN 4 HD [Alter]</display-name>
+  </channel>
+  <channel id="ESPN_4_SD">
+    <display-name>ESPN 4 SD</display-name>
+  </channel>
+  <channel id="ESPN_4_SD_Alter">
+    <display-name>ESPN 4 SD [Alter]</display-name>
+  </channel>
+  <channel id="ESPN_5_FHD">
+    <display-name>ESPN 5 FHD</display-name>
+  </channel>
+  <channel id="ESPN_5_FHD_Alter">
+    <display-name>ESPN 5 FHD [Alter]</display-name>
+  </channel>
+  <channel id="ESPN_5_HD">
+    <display-name>ESPN 5 HD</display-name>
+  </channel>
+  <channel id="ESPN_5_HD_Alter">
+    <display-name>ESPN 5 HD [Alter]</display-name>
+  </channel>
+  <channel id="ESPN_5_SD">
+    <display-name>ESPN 5 SD</display-name>
+  </channel>
+  <channel id="ESPN_5_SD_Alter">
+    <display-name>ESPN 5 SD [Alter]</display-name>
+  </channel>
+  <channel id="ESPN_6_FHD">
+    <display-name>ESPN 6 FHD</display-name>
+  </channel>
+  <channel id="ESPN_6_HD">
+    <display-name>ESPN 6 HD</display-name>
+  </channel>
+  <channel id="ESPN_6_SD">
+    <display-name>ESPN 6 SD</display-name>
+  </channel>
+  <channel id="ESPN_FHD">
+    <display-name>ESPN FHD</display-name>
+  </channel>
+  <channel id="ESPN_FHD_Alter">
+    <display-name>ESPN FHD [Alter]</display-name>
+  </channel>
+  <channel id="ESPN_HD">
+    <display-name>ESPN HD</display-name>
+  </channel>
+  <channel id="ESPN_HD_Alter">
+    <display-name>ESPN HD [Alter]</display-name>
+  </channel>
+  <channel id="ESPN_SD">
+    <display-name>ESPN SD</display-name>
+  </channel>
+  <channel id="ESPN_SD_Alter">
+    <display-name>ESPN SD [Alter]</display-name>
+  </channel>
+  <channel id="Fish_TV_FHD">
+    <display-name>Fish TV FHD</display-name>
+  </channel>
+  <channel id="Fish_TV_HD">
+    <display-name>Fish TV HD</display-name>
+  </channel>
+  <channel id="Fish_TV_HD_Alter">
+    <display-name>Fish TV HD [Alter]</display-name>
+  </channel>
+  <channel id="Fish_TV_SD">
+    <display-name>Fish TV SD</display-name>
+  </channel>
+  <channel id="Fish_TV_SD_Alter">
+    <display-name>Fish TV SD [Alter]</display-name>
+  </channel>
+  <channel id="Liga_Nacional_Futsal1">
+    <display-name>Liga Nacional Futsal¹</display-name>
+  </channel>
+  <channel id="Liga_Nacional_Futsal2">
+    <display-name>Liga Nacional Futsal²</display-name>
+  </channel>
+  <channel id="OFF_FHD">
+    <display-name>OFF FHD</display-name>
+  </channel>
+  <channel id="OFF_FHD_Alter">
+    <display-name>OFF FHD [Alter]</display-name>
+  </channel>
+  <channel id="OFF_HD">
+    <display-name>OFF HD</display-name>
+  </channel>
+  <channel id="OFF_HD_Alter">
+    <display-name>OFF HD [Alter]</display-name>
+  </channel>
+  <channel id="OFF_SD">
+    <display-name>OFF SD</display-name>
+  </channel>
+  <channel id="OFF_SD_Alter">
+    <display-name>OFF SD [Alter]</display-name>
+  </channel>
+  <channel id="SporTV_2_FHD">
+    <display-name>SporTV 2 FHD</display-name>
+  </channel>
+  <channel id="SporTV_2_FHD_Alter">
+    <display-name>SporTV 2 FHD [Alter]</display-name>
+  </channel>
+  <channel id="SporTV_2_HD">
+    <display-name>SporTV 2 HD</display-name>
+  </channel>
+  <channel id="SporTV_2_HD_Alter">
+    <display-name>SporTV 2 HD [Alter]</display-name>
+  </channel>
+  <channel id="SporTV_2_SD">
+    <display-name>SporTV 2 SD</display-name>
+  </channel>
+  <channel id="SporTV_2_SD_Alter">
+    <display-name>SporTV 2 SD [Alter]</display-name>
+  </channel>
+  <channel id="SporTV_3_FHD">
+    <display-name>SporTV 3 FHD</display-name>
+  </channel>
+  <channel id="SporTV_3_FHD_Alter">
+    <display-name>SporTV 3 FHD [Alter]</display-name>
+  </channel>
+  <channel id="SporTV_3_HD">
+    <display-name>SporTV 3 HD</display-name>
+  </channel>
+  <channel id="SporTV_3_HD_Alter">
+    <display-name>SporTV 3 HD [Alter]</display-name>
+  </channel>
+  <channel id="SporTV_3_SD">
+    <display-name>SporTV 3 SD</display-name>
+  </channel>
+  <channel id="SporTV_3_SD_Alter">
+    <display-name>SporTV 3 SD [Alter]</display-name>
+  </channel>
+  <channel id="SporTV_4_FHD">
+    <display-name>SporTV 4 FHD</display-name>
+  </channel>
+  <channel id="SporTV_4_HD">
+    <display-name>SporTV 4 HD</display-name>
+  </channel>
+  <channel id="SporTV_4_SD">
+    <display-name>SporTV 4 SD</display-name>
+  </channel>
+  <channel id="SporTV_FHD">
+    <display-name>SporTV FHD</display-name>
+  </channel>
+  <channel id="SporTV_FHD_Alter">
+    <display-name>SporTV FHD [Alter]</display-name>
+  </channel>
+  <channel id="SporTV_HD">
+    <display-name>SporTV HD</display-name>
+  </channel>
+  <channel id="SporTV_HD_Alter">
+    <display-name>SporTV HD [Alter]</display-name>
+  </channel>
+  <channel id="SporTV_SD">
+    <display-name>SporTV SD</display-name>
+  </channel>
+  <channel id="SporTV_SD_Alter">
+    <display-name>SporTV SD [Alter]</display-name>
+  </channel>
+  <channel id="Woohoo_HD">
+    <display-name>Woohoo HD</display-name>
+  </channel>
+  <channel id="Woohoo_HD_Alter">
+    <display-name>Woohoo HD [Alter]</display-name>
+  </channel>
+  <channel id="Woohoo_SD">
+    <display-name>Woohoo SD</display-name>
+  </channel>
+  <channel id="Woohoo_SD_Alter">
+    <display-name>Woohoo SD [Alter]</display-name>
+  </channel>
+  <channel id="XSports_FHD">
+    <display-name>XSports FHD</display-name>
+  </channel>
+  <channel id="XSports_HD">
+    <display-name>XSports HD</display-name>
+  </channel>
+  <channel id="XSports_SD">
+    <display-name>XSports SD</display-name>
+  </channel>
+  <channel id="Brasileirao_Serie_C_HD_01_Eleven">
+    <display-name>Brasileirao Serie C HD 01 (Eleven)</display-name>
+  </channel>
+  <channel id="Brasileirao_Serie_C_HD_02_Eleven">
+    <display-name>Brasileirao Serie C HD 02 (Eleven)</display-name>
+  </channel>
+  <channel id="Brasileirao_Serie_C_HD_03_Eleven">
+    <display-name>Brasileirao Serie C HD 03 (Eleven)</display-name>
+  </channel>
+  <channel id="Campeonato_Carioca1">
+    <display-name>Campeonato Carioca¹</display-name>
+  </channel>
+  <channel id="Campeonato_Carioca2">
+    <display-name>Campeonato Carioca²</display-name>
+  </channel>
+  <channel id="Campeonato_Carioca3">
+    <display-name>Campeonato Carioca³</display-name>
+  </channel>
+  <channel id="Campeonato_Catarinense_1">
+    <display-name>Campeonato Catarinense 1</display-name>
+  </channel>
+  <channel id="Campeonato_Catarinense_2">
+    <display-name>Campeonato Catarinense 2</display-name>
+  </channel>
+  <channel id="Campeonato_Catarinense_3">
+    <display-name>Campeonato Catarinense 3</display-name>
+  </channel>
+  <channel id="Campeonato_Catarinense_4">
+    <display-name>Campeonato Catarinense 4</display-name>
+  </channel>
+  <channel id="Campeonato_Paraibano1">
+    <display-name>Campeonato Paraibano¹</display-name>
+  </channel>
+  <channel id="Campeonato_Paraibano2">
+    <display-name>Campeonato Paraibano²</display-name>
+  </channel>
+  <channel id="Campeonato_Paraibano3">
+    <display-name>Campeonato Paraibano³</display-name>
+  </channel>
+  <channel id="Campeonato_Paranaense1">
+    <display-name>Campeonato Paranaense¹</display-name>
+  </channel>
+  <channel id="Campeonato_Paranaense2">
+    <display-name>Campeonato Paranaense²</display-name>
+  </channel>
+  <channel id="Campeonato_Paranaense3">
+    <display-name>Campeonato Paranaense³</display-name>
+  </channel>
+  <channel id="Campeonato_Sergipano1">
+    <display-name>Campeonato Sergipano¹</display-name>
+  </channel>
+  <channel id="Campeonato_Sergipano2">
+    <display-name>Campeonato Sergipano²</display-name>
+  </channel>
+  <channel id="Campeonato_Sergipano3">
+    <display-name>Campeonato Sergipano³</display-name>
+  </channel>
+  <channel id="O_Tempo_Sports">
+    <display-name>O Tempo Sports</display-name>
+  </channel>
+  <channel id="SportyNet_-_Paulistao">
+    <display-name>SportyNet - Paulistao</display-name>
+  </channel>
+  <channel id="SportyNet_-_Paulistao_-_Alter">
+    <display-name>SportyNet - Paulistao - Alter</display-name>
+  </channel>
+  <channel id="SportyNet_-_Paulistao1">
+    <display-name>SportyNet - Paulistao¹</display-name>
+  </channel>
+  <channel id="SportyNet_-_Paulistao1_-_Alter">
+    <display-name>SportyNet - Paulistao¹ - Alter</display-name>
+  </channel>
+  <channel id="SportyNet_-_Paulistao2">
+    <display-name>SportyNet - Paulistao²</display-name>
+  </channel>
+  <channel id="SportyNet_-_Paulistao3">
+    <display-name>SportyNet - Paulistao³</display-name>
+  </channel>
+  <channel id="Tve_Bahia">
+    <display-name>Tve Bahia</display-name>
+  </channel>
+  <channel id="Dazn_2_HD">
+    <display-name>Dazn 2 HD</display-name>
+  </channel>
+  <channel id="Dazn_3_HD">
+    <display-name>Dazn 3 HD</display-name>
+  </channel>
+  <channel id="Dazn_4_HD">
+    <display-name>Dazn 4 HD</display-name>
+  </channel>
+  <channel id="Dazn_5_HD">
+    <display-name>Dazn 5 HD</display-name>
+  </channel>
+  <channel id="Dazn_HD_Alter">
+    <display-name>Dazn HD [Alter]</display-name>
+  </channel>
+  <channel id="Estadio_TNT_Sports">
+    <display-name>Estadio TNT Sports</display-name>
+  </channel>
+  <channel id="Estadio_TNT_Sports_01">
+    <display-name>Estadio TNT Sports 01</display-name>
+  </channel>
+  <channel id="Estadio_TNT_Sports_02">
+    <display-name>Estadio TNT Sports 02</display-name>
+  </channel>
+  <channel id="Estadio_TNT_Sports_03">
+    <display-name>Estadio TNT Sports 03</display-name>
+  </channel>
+  <channel id="Estadio_TNT_Sports_04">
+    <display-name>Estadio TNT Sports 04</display-name>
+  </channel>
+  <channel id="Estadio_TNT_Sports_05">
+    <display-name>Estadio TNT Sports 05</display-name>
+  </channel>
+  <channel id="Estadio_TNT_Sports_HD">
+    <display-name>Estadio TNT Sports HD</display-name>
+  </channel>
+  <channel id="HBO_Max_1">
+    <display-name>HBO Max 1</display-name>
+  </channel>
+  <channel id="HBO_Max_1_Alter1">
+    <display-name>HBO Max 1 [Alter¹]</display-name>
+  </channel>
+  <channel id="HBO_Max_2">
+    <display-name>HBO Max 2</display-name>
+  </channel>
+  <channel id="HBO_Max_2_Alter2">
+    <display-name>HBO Max 2 [Alter²]</display-name>
+  </channel>
+  <channel id="HBO_Max_3">
+    <display-name>HBO Max 3</display-name>
+  </channel>
+  <channel id="HBO_Max_4">
+    <display-name>HBO Max 4</display-name>
+  </channel>
+  <channel id="HBO_Max_5">
+    <display-name>HBO Max 5</display-name>
+  </channel>
+  <channel id="HBO_Max_6">
+    <display-name>HBO Max 6</display-name>
+  </channel>
+  <channel id="NBA_League_Pass_1_HD">
+    <display-name>NBA League Pass 1 HD</display-name>
+  </channel>
+  <channel id="NBA_League_Pass_1_HD_Alter">
+    <display-name>NBA League Pass 1 HD [Alter]</display-name>
+  </channel>
+  <channel id="NBA_League_Pass_2_HD">
+    <display-name>NBA League Pass 2 HD</display-name>
+  </channel>
+  <channel id="NBA_League_Pass_2_HD_Alter">
+    <display-name>NBA League Pass 2 HD [Alter]</display-name>
+  </channel>
+  <channel id="NBA_League_Pass_3_HD">
+    <display-name>NBA League Pass 3 HD</display-name>
+  </channel>
+  <channel id="NBA_League_Pass_3_HD_Alter">
+    <display-name>NBA League Pass 3 HD [Alter]</display-name>
+  </channel>
+  <channel id="NBA_League_Pass_4_HD">
+    <display-name>NBA League Pass 4 HD</display-name>
+  </channel>
+  <channel id="NBA_League_Pass_4_HD_Alter">
+    <display-name>NBA League Pass 4 HD [Alter]</display-name>
+  </channel>
+  <channel id="NBA_League_Pass_5_HD">
+    <display-name>NBA League Pass 5 HD</display-name>
+  </channel>
+  <channel id="NBA_League_Pass_5_HD_Alter">
+    <display-name>NBA League Pass 5 HD [Alter]</display-name>
+  </channel>
+  <channel id="NBA_League_Pass_6_HD">
+    <display-name>NBA League Pass 6 HD</display-name>
+  </channel>
+  <channel id="NBA_League_Pass_6_HD_Alter">
+    <display-name>NBA League Pass 6 HD [Alter]</display-name>
+  </channel>
+  <channel id="Barretao_FHD">
+    <display-name>Barretao FHD</display-name>
+  </channel>
+  <channel id="BJJ_Stars">
+    <display-name>BJJ Stars</display-name>
+  </channel>
+  <channel id="Canal_Goat_1_FHD">
+    <display-name>Canal Goat 1 FHD</display-name>
+  </channel>
+  <channel id="Canal_Goat_1_HD">
+    <display-name>Canal Goat 1 HD</display-name>
+  </channel>
+  <channel id="Canal_Goat_1_SD">
+    <display-name>Canal Goat 1 SD</display-name>
+  </channel>
+  <channel id="Canal_Goat_2_FHD">
+    <display-name>Canal Goat 2 FHD</display-name>
+  </channel>
+  <channel id="Canal_Goat_2_HD">
+    <display-name>Canal Goat 2 HD</display-name>
+  </channel>
+  <channel id="Canal_Goat_2_SD">
+    <display-name>Canal Goat 2 SD</display-name>
+  </channel>
+  <channel id="Caze_-_Youtube_HD_-_Apple_TV">
+    <display-name>Caze - Youtube HD - Apple TV</display-name>
+  </channel>
+  <channel id="Caze_-_Youtube1_HD_-_Apple_TV">
+    <display-name>Caze - Youtube¹ HD - Apple TV</display-name>
+  </channel>
+  <channel id="Caze_-_Youtube2_HD_-_Apple_TV">
+    <display-name>Caze - Youtube² HD - Apple TV</display-name>
+  </channel>
+  <channel id="F1_-_01">
+    <display-name>F1 - 01</display-name>
+  </channel>
+  <channel id="Furacao_Live_FHD">
+    <display-name>Furacao Live FHD</display-name>
+  </channel>
+  <channel id="Furacao_Live_HD">
+    <display-name>Furacao Live HD</display-name>
+  </channel>
+  <channel id="Furacao_Live_SD">
+    <display-name>Furacao Live SD</display-name>
+  </channel>
+  <channel id="Netflix_Eventos">
+    <display-name>Netflix Eventos</display-name>
+  </channel>
+  <channel id="Olympia_TV_FHD">
+    <display-name>Olympia TV FHD</display-name>
+  </channel>
+  <channel id="Olympia_TV_HD">
+    <display-name>Olympia TV HD</display-name>
+  </channel>
+  <channel id="Olympia_TV_SD">
+    <display-name>Olympia TV SD</display-name>
+  </channel>
+  <channel id="One_Football">
+    <display-name>One Football</display-name>
+  </channel>
+  <channel id="Premiere_2_FHD">
+    <display-name>Premiere 2 FHD</display-name>
+  </channel>
+  <channel id="Premiere_2_FHD_H.265">
+    <display-name>Premiere 2 FHD H.265</display-name>
+  </channel>
+  <channel id="Premiere_2_FHD_Alter">
+    <display-name>Premiere 2 FHD [Alter]</display-name>
+  </channel>
+  <channel id="Premiere_2_HD">
+    <display-name>Premiere 2 HD</display-name>
+  </channel>
+  <channel id="Premiere_2_HD_Alter">
+    <display-name>Premiere 2 HD [Alter]</display-name>
+  </channel>
+  <channel id="Premiere_2_SD">
+    <display-name>Premiere 2 SD</display-name>
+  </channel>
+  <channel id="Premiere_2_SD_Alter">
+    <display-name>Premiere 2 SD [Alter]</display-name>
+  </channel>
+  <channel id="Premiere_3_FHD">
+    <display-name>Premiere 3 FHD</display-name>
+  </channel>
+  <channel id="Premiere_3_FHD_H.265">
+    <display-name>Premiere 3 FHD H.265</display-name>
+  </channel>
+  <channel id="Premiere_3_FHD_Alter">
+    <display-name>Premiere 3 FHD [Alter]</display-name>
+  </channel>
+  <channel id="Premiere_3_HD">
+    <display-name>Premiere 3 HD</display-name>
+  </channel>
+  <channel id="Premiere_3_HD_Alter">
+    <display-name>Premiere 3 HD [Alter]</display-name>
+  </channel>
+  <channel id="Premiere_3_SD">
+    <display-name>Premiere 3 SD</display-name>
+  </channel>
+  <channel id="Premiere_3_SD_Alter">
+    <display-name>Premiere 3 SD [Alter]</display-name>
+  </channel>
+  <channel id="Premiere_4_FHD">
+    <display-name>Premiere 4 FHD</display-name>
+  </channel>
+  <channel id="Premiere_4_FHD_H.265">
+    <display-name>Premiere 4 FHD H.265</display-name>
+  </channel>
+  <channel id="Premiere_4_FHD_Alter">
+    <display-name>Premiere 4 FHD [Alter]</display-name>
+  </channel>
+  <channel id="Premiere_4_HD">
+    <display-name>Premiere 4 HD</display-name>
+  </channel>
+  <channel id="Premiere_4_HD_Alter">
+    <display-name>Premiere 4 HD [Alter]</display-name>
+  </channel>
+  <channel id="Premiere_4_SD">
+    <display-name>Premiere 4 SD</display-name>
+  </channel>
+  <channel id="Premiere_4_SD_Alter">
+    <display-name>Premiere 4 SD [Alter]</display-name>
+  </channel>
+  <channel id="Premiere_5_FHD">
+    <display-name>Premiere 5 FHD</display-name>
+  </channel>
+  <channel id="Premiere_5_FHD_H.265">
+    <display-name>Premiere 5 FHD H.265</display-name>
+  </channel>
+  <channel id="Premiere_5_FHD_Alter">
+    <display-name>Premiere 5 FHD [Alter]</display-name>
+  </channel>
+  <channel id="Premiere_5_HD">
+    <display-name>Premiere 5 HD</display-name>
+  </channel>
+  <channel id="Premiere_5_HD_Alter">
+    <display-name>Premiere 5 HD [Alter]</display-name>
+  </channel>
+  <channel id="Premiere_5_SD">
+    <display-name>Premiere 5 SD</display-name>
+  </channel>
+  <channel id="Premiere_5_SD_Alter">
+    <display-name>Premiere 5 SD [Alter]</display-name>
+  </channel>
+  <channel id="Premiere_6_FHD">
+    <display-name>Premiere 6 FHD</display-name>
+  </channel>
+  <channel id="Premiere_6_FHD_H.265">
+    <display-name>Premiere 6 FHD H.265</display-name>
+  </channel>
+  <channel id="Premiere_6_FHD_Alter">
+    <display-name>Premiere 6 FHD [Alter]</display-name>
+  </channel>
+  <channel id="Premiere_6_HD">
+    <display-name>Premiere 6 HD</display-name>
+  </channel>
+  <channel id="Premiere_6_HD_Alter">
+    <display-name>Premiere 6 HD [Alter]</display-name>
+  </channel>
+  <channel id="Premiere_6_SD">
+    <display-name>Premiere 6 SD</display-name>
+  </channel>
+  <channel id="Premiere_6_SD_Alter">
+    <display-name>Premiere 6 SD [Alter]</display-name>
+  </channel>
+  <channel id="Premiere_7_FHD">
+    <display-name>Premiere 7 FHD</display-name>
+  </channel>
+  <channel id="Premiere_7_FHD_H.265">
+    <display-name>Premiere 7 FHD H.265</display-name>
+  </channel>
+  <channel id="Premiere_7_FHD_Alter">
+    <display-name>Premiere 7 FHD [Alter]</display-name>
+  </channel>
+  <channel id="Premiere_7_HD">
+    <display-name>Premiere 7 HD</display-name>
+  </channel>
+  <channel id="Premiere_7_HD_Alter">
+    <display-name>Premiere 7 HD [Alter]</display-name>
+  </channel>
+  <channel id="Premiere_7_SD">
+    <display-name>Premiere 7 SD</display-name>
+  </channel>
+  <channel id="Premiere_7_SD_Alter">
+    <display-name>Premiere 7 SD [Alter]</display-name>
+  </channel>
+  <channel id="Premiere_8_FHD">
+    <display-name>Premiere 8 FHD</display-name>
+  </channel>
+  <channel id="Premiere_8_HD">
+    <display-name>Premiere 8 HD</display-name>
+  </channel>
+  <channel id="Premiere_8_SD">
+    <display-name>Premiere 8 SD</display-name>
+  </channel>
+  <channel id="Premiere_Clubes_FHD">
+    <display-name>Premiere Clubes FHD</display-name>
+  </channel>
+  <channel id="Premiere_Clubes_FHD_H.265">
+    <display-name>Premiere Clubes FHD H.265</display-name>
+  </channel>
+  <channel id="Premiere_Clubes_FHD_Alter">
+    <display-name>Premiere Clubes FHD [Alter]</display-name>
+  </channel>
+  <channel id="Premiere_Clubes_HD">
+    <display-name>Premiere Clubes HD</display-name>
+  </channel>
+  <channel id="Premiere_Clubes_HD_Alter">
+    <display-name>Premiere Clubes HD [Alter]</display-name>
+  </channel>
+  <channel id="Premiere_Clubes_SD">
+    <display-name>Premiere Clubes SD</display-name>
+  </channel>
+  <channel id="Premiere_Clubes_SD_Alter">
+    <display-name>Premiere Clubes SD [Alter]</display-name>
+  </channel>
+  <channel id="A_E_FHD_H.265">
+    <display-name>A&amp;E FHD H.265</display-name>
+  </channel>
+  <channel id="AMC_FHD_H.265">
+    <display-name>AMC FHD H.265</display-name>
+  </channel>
+  <channel id="Animal_Planet_FHD_H.265">
+    <display-name>Animal Planet FHD H.265</display-name>
+  </channel>
+  <channel id="AXN_FHD_H.265">
+    <display-name>AXN FHD H.265</display-name>
+  </channel>
+  <channel id="Band_News_FHD_H.265">
+    <display-name>Band News FHD H.265</display-name>
+  </channel>
+  <channel id="Band_SP_FHD_H.265">
+    <display-name>Band SP FHD H.265</display-name>
+  </channel>
+  <channel id="Band_Sports_FHD_H.265">
+    <display-name>Band Sports FHD H.265</display-name>
+  </channel>
+  <channel id="BIS_FHD_H.265">
+    <display-name>BIS FHD H.265</display-name>
+  </channel>
+  <channel id="Boomerang_FHD_H.265">
+    <display-name>Boomerang FHD H.265</display-name>
+  </channel>
+  <channel id="Canal_Sony_FHD_H.265">
+    <display-name>Canal Sony FHD H.265</display-name>
+  </channel>
+  <channel id="Cartoon_Network_FHD_H.265">
+    <display-name>Cartoon Network FHD H.265</display-name>
+  </channel>
+  <channel id="Cinemax_FHD_H.265">
+    <display-name>Cinemax FHD H.265</display-name>
+  </channel>
+  <channel id="Combate_FHD_H.265">
+    <display-name>Combate FHD H.265</display-name>
+  </channel>
+  <channel id="Comedy_Central_FHD_H.265">
+    <display-name>Comedy Central FHD H.265</display-name>
+  </channel>
+  <channel id="Discovery_Channel_FHD_H.265">
+    <display-name>Discovery Channel FHD H.265</display-name>
+  </channel>
+  <channel id="Discovery_Home_Health_FHD_H.265">
+    <display-name>Discovery Home Health FHD H.265</display-name>
+  </channel>
+  <channel id="Discovery_Kids_FHD_H.265">
+    <display-name>Discovery Kids FHD H.265</display-name>
+  </channel>
+  <channel id="Discovery_Science_FHD_H.265">
+    <display-name>Discovery Science FHD H.265</display-name>
+  </channel>
+  <channel id="Discovery_Theater_FHD_H.265">
+    <display-name>Discovery Theater FHD H.265</display-name>
+  </channel>
+  <channel id="Discovery_Turbo_FHD_H.265">
+    <display-name>Discovery Turbo FHD H.265</display-name>
+  </channel>
+  <channel id="Discovery_World_FHD_H.265">
+    <display-name>Discovery World FHD H.265</display-name>
+  </channel>
+  <channel id="ESPN_2_FHD_H.265">
+    <display-name>ESPN 2 FHD H.265</display-name>
+  </channel>
+  <channel id="ESPN_3_FHD_H.265">
+    <display-name>ESPN 3 FHD H.265</display-name>
+  </channel>
+  <channel id="ESPN_4_FHD_H.265">
+    <display-name>ESPN 4 FHD H.265</display-name>
+  </channel>
+  <channel id="ESPN_5_FHD_H.265">
+    <display-name>ESPN 5 FHD H.265</display-name>
+  </channel>
+  <channel id="ESPN_FHD_H.265">
+    <display-name>ESPN FHD H.265</display-name>
+  </channel>
+  <channel id="Food_Network_FHD_H.265">
+    <display-name>Food Network FHD H.265</display-name>
+  </channel>
+  <channel id="Globo_News_FHD_H.265">
+    <display-name>Globo News FHD H.265</display-name>
+  </channel>
+  <channel id="Globo_SP_FHD_H.265">
+    <display-name>Globo SP FHD H.265</display-name>
+  </channel>
+  <channel id="H2_FHD_H.265">
+    <display-name>H2 FHD H.265</display-name>
+  </channel>
+  <channel id="HBO_2_FHD_H.265">
+    <display-name>HBO 2 FHD H.265</display-name>
+  </channel>
+  <channel id="HBO_Family_FHD_H.265">
+    <display-name>HBO Family FHD H.265</display-name>
+  </channel>
+  <channel id="HBO_FHD_H.265">
+    <display-name>HBO FHD H.265</display-name>
+  </channel>
+  <channel id="HBO_Mundi_FHD_H.265">
+    <display-name>HBO Mundi FHD H.265</display-name>
+  </channel>
+  <channel id="HBO_Plus_FHD_H.265">
+    <display-name>HBO Plus FHD H.265</display-name>
+  </channel>
+  <channel id="HBO_Pop_FHD_H.265">
+    <display-name>HBO Pop FHD H.265</display-name>
+  </channel>
+  <channel id="HBO_Signature_FHD_H.265">
+    <display-name>HBO Signature FHD H.265</display-name>
+  </channel>
+  <channel id="HBO_Xtreme_FHD_H.265">
+    <display-name>HBO Xtreme FHD H.265</display-name>
+  </channel>
+  <channel id="HGTV_FHD_H.265">
+    <display-name>HGTV FHD H.265</display-name>
+  </channel>
+  <channel id="History_FHD_H.265">
+    <display-name>History FHD H.265</display-name>
+  </channel>
+  <channel id="Investigacao_Discovery_FHD_H.265">
+    <display-name>Investigacao Discovery FHD H.265</display-name>
+  </channel>
+  <channel id="Lifetime_FHD_H.265">
+    <display-name>Lifetime FHD H.265</display-name>
+  </channel>
+  <channel id="Megapix_FHD_H.265">
+    <display-name>Megapix FHD H.265</display-name>
+  </channel>
+  <channel id="Multishow_FHD_H.265">
+    <display-name>Multishow FHD H.265</display-name>
+  </channel>
+  <channel id="Nick_Jr_FHD_H.265">
+    <display-name>Nick Jr FHD H.265</display-name>
+  </channel>
+  <channel id="Nickelodeon_FHD_H.265">
+    <display-name>Nickelodeon FHD H.265</display-name>
+  </channel>
+  <channel id="Paramount_FHD_H.265">
+    <display-name>Paramount FHD H.265</display-name>
+  </channel>
+  <channel id="Record_SP_FHD_H.265">
+    <display-name>Record SP FHD H.265</display-name>
+  </channel>
+  <channel id="Space_FHD_H.265">
+    <display-name>Space FHD H.265</display-name>
+  </channel>
+  <channel id="SporTV_2_FHD_H.265">
+    <display-name>SporTV 2 FHD H.265</display-name>
+  </channel>
+  <channel id="SporTV_3_FHD_H.265">
+    <display-name>SporTV 3 FHD H.265</display-name>
+  </channel>
+  <channel id="SporTV_FHD_H.265">
+    <display-name>SporTV FHD H.265</display-name>
+  </channel>
+  <channel id="Studio_Universal_FHD_H.265">
+    <display-name>Studio Universal FHD H.265</display-name>
+  </channel>
+  <channel id="Syfy_FHD_H.265">
+    <display-name>Syfy FHD H.265</display-name>
+  </channel>
+  <channel id="Telecine_Action_FHD_H.265">
+    <display-name>Telecine Action FHD H.265</display-name>
+  </channel>
+  <channel id="Telecine_Cult_FHD_H.265">
+    <display-name>Telecine Cult FHD H.265</display-name>
+  </channel>
+  <channel id="Telecine_Fun_FHD_H.265">
+    <display-name>Telecine Fun FHD H.265</display-name>
+  </channel>
+  <channel id="Telecine_Pipoca_FHD_H.265">
+    <display-name>Telecine Pipoca FHD H.265</display-name>
+  </channel>
+  <channel id="Telecine_Premium_FHD_H.265">
+    <display-name>Telecine Premium FHD H.265</display-name>
+  </channel>
+  <channel id="Telecine_Touch_FHD_H.265">
+    <display-name>Telecine Touch FHD H.265</display-name>
+  </channel>
+  <channel id="TNT_FHD_H.265">
+    <display-name>TNT FHD H.265</display-name>
+  </channel>
+  <channel id="TNT_Series_FHD_H.265">
+    <display-name>TNT Series FHD H.265</display-name>
+  </channel>
+  <channel id="TV_Gloobinho_FHD_H.265">
+    <display-name>TV Gloobinho FHD H.265</display-name>
+  </channel>
+  <channel id="Universal_Channel_FHD_H.265">
+    <display-name>Universal Channel FHD H.265</display-name>
+  </channel>
+  <channel id="Warner_Channel_FHD_H.265">
+    <display-name>Warner Channel FHD H.265</display-name>
+  </channel>
+  <channel id="A_E_FHD">
+    <display-name>A&amp;E FHD</display-name>
+  </channel>
+  <channel id="A_E_FHD_Alter">
+    <display-name>A&amp;E FHD [Alter]</display-name>
+  </channel>
+  <channel id="A_E_HD">
+    <display-name>A&amp;E HD</display-name>
+  </channel>
+  <channel id="A_E_HD_Alter">
+    <display-name>A&amp;E HD [Alter]</display-name>
+  </channel>
+  <channel id="A_E_SD">
+    <display-name>A&amp;E SD</display-name>
+  </channel>
+  <channel id="A_E_SD_Alter">
+    <display-name>A&amp;E SD [Alter]</display-name>
+  </channel>
+  <channel id="AMC_FHD">
+    <display-name>AMC FHD</display-name>
+  </channel>
+  <channel id="AMC_FHD_Alter">
+    <display-name>AMC FHD [Alter]</display-name>
+  </channel>
+  <channel id="AMC_HD">
+    <display-name>AMC HD</display-name>
+  </channel>
+  <channel id="AMC_HD_Alter">
+    <display-name>AMC HD [Alter]</display-name>
+  </channel>
+  <channel id="AMC_SD">
+    <display-name>AMC SD</display-name>
+  </channel>
+  <channel id="AMC_SD_Alter">
+    <display-name>AMC SD [Alter]</display-name>
+  </channel>
+  <channel id="AXN_FHD">
+    <display-name>AXN FHD</display-name>
+  </channel>
+  <channel id="AXN_FHD_Alter">
+    <display-name>AXN FHD [Alter]</display-name>
+  </channel>
+  <channel id="AXN_HD">
+    <display-name>AXN HD</display-name>
+  </channel>
+  <channel id="AXN_HD_Alter">
+    <display-name>AXN HD [Alter]</display-name>
+  </channel>
+  <channel id="AXN_SD">
+    <display-name>AXN SD</display-name>
+  </channel>
+  <channel id="AXN_SD_Alter">
+    <display-name>AXN SD [Alter]</display-name>
+  </channel>
+  <channel id="Canal_Brasil_FHD">
+    <display-name>Canal Brasil FHD</display-name>
+  </channel>
+  <channel id="Canal_Brasil_FHD_Alter">
+    <display-name>Canal Brasil FHD [Alter]</display-name>
+  </channel>
+  <channel id="Canal_Brasil_HD">
+    <display-name>Canal Brasil HD</display-name>
+  </channel>
+  <channel id="Canal_Brasil_HD_Alter">
+    <display-name>Canal Brasil HD [Alter]</display-name>
+  </channel>
+  <channel id="Canal_Brasil_SD">
+    <display-name>Canal Brasil SD</display-name>
+  </channel>
+  <channel id="Canal_Brasil_SD_Alter">
+    <display-name>Canal Brasil SD [Alter]</display-name>
+  </channel>
+  <channel id="Canal_Sony_FHD">
+    <display-name>Canal Sony FHD</display-name>
+  </channel>
+  <channel id="Canal_Sony_FHD_Alter">
+    <display-name>Canal Sony FHD [Alter]</display-name>
+  </channel>
+  <channel id="Canal_Sony_HD">
+    <display-name>Canal Sony HD</display-name>
+  </channel>
+  <channel id="Canal_Sony_HD_Alter">
+    <display-name>Canal Sony HD [Alter]</display-name>
+  </channel>
+  <channel id="Canal_Sony_SD">
+    <display-name>Canal Sony SD</display-name>
+  </channel>
+  <channel id="Canal_Sony_SD_Alter">
+    <display-name>Canal Sony SD [Alter]</display-name>
+  </channel>
+  <channel id="Cine_Sky_1">
+    <display-name>Cine Sky 1</display-name>
+  </channel>
+  <channel id="Cine_Sky_2">
+    <display-name>Cine Sky 2</display-name>
+  </channel>
+  <channel id="Cine_Sky_3">
+    <display-name>Cine Sky 3</display-name>
+  </channel>
+  <channel id="Cine_Sky_4">
+    <display-name>Cine Sky 4</display-name>
+  </channel>
+  <channel id="Cine_Sky_5">
+    <display-name>Cine Sky 5</display-name>
+  </channel>
+  <channel id="Cine_Sky_6">
+    <display-name>Cine Sky 6</display-name>
+  </channel>
+  <channel id="Cine_Sky_7">
+    <display-name>Cine Sky 7</display-name>
+  </channel>
+  <channel id="Cine_Sky_8">
+    <display-name>Cine Sky 8</display-name>
+  </channel>
+  <channel id="Cine_Sky_9">
+    <display-name>Cine Sky 9</display-name>
+  </channel>
+  <channel id="Cinemax_FHD">
+    <display-name>Cinemax FHD</display-name>
+  </channel>
+  <channel id="Cinemax_FHD_Alter">
+    <display-name>Cinemax FHD [Alter]</display-name>
+  </channel>
+  <channel id="Cinemax_HD">
+    <display-name>Cinemax HD</display-name>
+  </channel>
+  <channel id="Cinemax_HD_Alter">
+    <display-name>Cinemax HD [Alter]</display-name>
+  </channel>
+  <channel id="Cinemax_SD">
+    <display-name>Cinemax SD</display-name>
+  </channel>
+  <channel id="Cinemax_SD_Alter">
+    <display-name>Cinemax SD [Alter]</display-name>
+  </channel>
+  <channel id="HBO_2_FHD">
+    <display-name>HBO 2 FHD</display-name>
+  </channel>
+  <channel id="HBO_2_FHD_Alter">
+    <display-name>HBO 2 FHD [Alter]</display-name>
+  </channel>
+  <channel id="HBO_2_HD">
+    <display-name>HBO 2 HD</display-name>
+  </channel>
+  <channel id="HBO_2_HD_Alter">
+    <display-name>HBO 2 HD [Alter]</display-name>
+  </channel>
+  <channel id="HBO_2_SD">
+    <display-name>HBO 2 SD</display-name>
+  </channel>
+  <channel id="HBO_2_SD_Alter">
+    <display-name>HBO 2 SD [Alter]</display-name>
+  </channel>
+  <channel id="HBO_Family_FHD">
+    <display-name>HBO Family FHD</display-name>
+  </channel>
+  <channel id="HBO_Family_FHD_Alter">
+    <display-name>HBO Family FHD [Alter]</display-name>
+  </channel>
+  <channel id="HBO_Family_HD">
+    <display-name>HBO Family HD</display-name>
+  </channel>
+  <channel id="HBO_Family_HD_Alter">
+    <display-name>HBO Family HD [Alter]</display-name>
+  </channel>
+  <channel id="HBO_Family_SD">
+    <display-name>HBO Family SD</display-name>
+  </channel>
+  <channel id="HBO_Family_SD_Alter">
+    <display-name>HBO Family SD [Alter]</display-name>
+  </channel>
+  <channel id="HBO_FHD">
+    <display-name>HBO FHD</display-name>
+  </channel>
+  <channel id="HBO_FHD_Alter">
+    <display-name>HBO FHD [Alter]</display-name>
+  </channel>
+  <channel id="HBO_HD">
+    <display-name>HBO HD</display-name>
+  </channel>
+  <channel id="HBO_HD_Alter">
+    <display-name>HBO HD [Alter]</display-name>
+  </channel>
+  <channel id="HBO_Mundi_FHD">
+    <display-name>HBO Mundi FHD</display-name>
+  </channel>
+  <channel id="HBO_Mundi_FHD_Alter">
+    <display-name>HBO Mundi FHD [Alter]</display-name>
+  </channel>
+  <channel id="HBO_Mundi_HD">
+    <display-name>HBO Mundi HD</display-name>
+  </channel>
+  <channel id="HBO_Mundi_HD_Alter">
+    <display-name>HBO Mundi HD [Alter]</display-name>
+  </channel>
+  <channel id="HBO_Mundi_SD">
+    <display-name>HBO Mundi SD</display-name>
+  </channel>
+  <channel id="HBO_Mundi_SD_Alter">
+    <display-name>HBO Mundi SD [Alter]</display-name>
+  </channel>
+  <channel id="HBO_Plus_FHD">
+    <display-name>HBO Plus FHD</display-name>
+  </channel>
+  <channel id="HBO_Plus_FHD_Alter">
+    <display-name>HBO Plus FHD [Alter]</display-name>
+  </channel>
+  <channel id="HBO_Plus_HD_Alter">
+    <display-name>HBO Plus HD [Alter]</display-name>
+  </channel>
+  <channel id="HBO_Plus_SD">
+    <display-name>HBO Plus SD</display-name>
+  </channel>
+  <channel id="HBO_Plus_SD_Alter">
+    <display-name>HBO Plus SD [Alter]</display-name>
+  </channel>
+  <channel id="HBO_Pop_FHD">
+    <display-name>HBO Pop FHD</display-name>
+  </channel>
+  <channel id="HBO_Pop_FHD_Alter">
+    <display-name>HBO Pop FHD [Alter]</display-name>
+  </channel>
+  <channel id="HBO_Pop_HD">
+    <display-name>HBO Pop HD</display-name>
+  </channel>
+  <channel id="HBO_Pop_HD_Alter">
+    <display-name>HBO Pop HD [Alter]</display-name>
+  </channel>
+  <channel id="HBO_Pop_SD">
+    <display-name>HBO Pop SD</display-name>
+  </channel>
+  <channel id="HBO_Pop_SD_Alter">
+    <display-name>HBO Pop SD [Alter]</display-name>
+  </channel>
+  <channel id="HBO_SD">
+    <display-name>HBO SD</display-name>
+  </channel>
+  <channel id="HBO_SD_Alter">
+    <display-name>HBO SD [Alter]</display-name>
+  </channel>
+  <channel id="HBO_Signature_FHD">
+    <display-name>HBO Signature FHD</display-name>
+  </channel>
+  <channel id="HBO_Signature_FHD_Alter">
+    <display-name>HBO Signature FHD [Alter]</display-name>
+  </channel>
+  <channel id="HBO_Signature_HD">
+    <display-name>HBO Signature HD</display-name>
+  </channel>
+  <channel id="HBO_Signature_HD_Alter">
+    <display-name>HBO Signature HD [Alter]</display-name>
+  </channel>
+  <channel id="HBO_Signature_SD">
+    <display-name>HBO Signature SD</display-name>
+  </channel>
+  <channel id="HBO_Signature_SD_Alter">
+    <display-name>HBO Signature SD [Alter]</display-name>
+  </channel>
+  <channel id="HBO_Xtreme_FHD">
+    <display-name>HBO Xtreme FHD</display-name>
+  </channel>
+  <channel id="HBO_Xtreme_FHD_Alter">
+    <display-name>HBO Xtreme FHD [Alter]</display-name>
+  </channel>
+  <channel id="HBO_Xtreme_HD">
+    <display-name>HBO Xtreme HD</display-name>
+  </channel>
+  <channel id="HBO_Xtreme_HD_Alter">
+    <display-name>HBO Xtreme HD [Alter]</display-name>
+  </channel>
+  <channel id="HBO_Xtreme_SD">
+    <display-name>HBO Xtreme SD</display-name>
+  </channel>
+  <channel id="HBO_Xtreme_SD_Alter">
+    <display-name>HBO Xtreme SD [Alter]</display-name>
+  </channel>
+  <channel id="I-SAT">
+    <display-name>I-SAT</display-name>
+  </channel>
+  <channel id="Megapix_FHD">
+    <display-name>Megapix FHD</display-name>
+  </channel>
+  <channel id="Megapix_FHD_Alter">
+    <display-name>Megapix FHD [Alter]</display-name>
+  </channel>
+  <channel id="Megapix_HD">
+    <display-name>Megapix HD</display-name>
+  </channel>
+  <channel id="Megapix_HD_Alter">
+    <display-name>Megapix HD [Alter]</display-name>
+  </channel>
+  <channel id="Megapix_SD">
+    <display-name>Megapix SD</display-name>
+  </channel>
+  <channel id="Megapix_SD_Alter">
+    <display-name>Megapix SD [Alter]</display-name>
+  </channel>
+  <channel id="Paramount_FHD">
+    <display-name>Paramount FHD</display-name>
+  </channel>
+  <channel id="Paramount_FHD_Alter">
+    <display-name>Paramount FHD [Alter]</display-name>
+  </channel>
+  <channel id="Paramount_HD">
+    <display-name>Paramount HD</display-name>
+  </channel>
+  <channel id="Paramount_HD_Alter">
+    <display-name>Paramount HD [Alter]</display-name>
+  </channel>
+  <channel id="Paramount_SD">
+    <display-name>Paramount SD</display-name>
+  </channel>
+  <channel id="Paramount_SD_Alter">
+    <display-name>Paramount SD [Alter]</display-name>
+  </channel>
+  <channel id="Prime_Box_Brazil_HD">
+    <display-name>Prime Box Brazil HD</display-name>
+  </channel>
+  <channel id="Prime_Box_Brazil_HD_Alter">
+    <display-name>Prime Box Brazil HD [Alter]</display-name>
+  </channel>
+  <channel id="Prime_Box_Brazil_SD">
+    <display-name>Prime Box Brazil SD</display-name>
+  </channel>
+  <channel id="Prime_Box_Brazil_SD_Alter">
+    <display-name>Prime Box Brazil SD [Alter]</display-name>
+  </channel>
+  <channel id="Space_FHD">
+    <display-name>Space FHD</display-name>
+  </channel>
+  <channel id="Space_FHD_Alter">
+    <display-name>Space FHD [Alter]</display-name>
+  </channel>
+  <channel id="Space_HD">
+    <display-name>Space HD</display-name>
+  </channel>
+  <channel id="Space_HD_Alter">
+    <display-name>Space HD [Alter]</display-name>
+  </channel>
+  <channel id="Space_SD">
+    <display-name>Space SD</display-name>
+  </channel>
+  <channel id="Space_SD_Alter">
+    <display-name>Space SD [Alter]</display-name>
+  </channel>
+  <channel id="Studio_Universal_FHD">
+    <display-name>Studio Universal FHD</display-name>
+  </channel>
+  <channel id="Studio_Universal_FHD_Alter">
+    <display-name>Studio Universal FHD [Alter]</display-name>
+  </channel>
+  <channel id="Studio_Universal_HD">
+    <display-name>Studio Universal HD</display-name>
+  </channel>
+  <channel id="Studio_Universal_HD_Alter">
+    <display-name>Studio Universal HD [Alter]</display-name>
+  </channel>
+  <channel id="Studio_Universal_SD">
+    <display-name>Studio Universal SD</display-name>
+  </channel>
+  <channel id="Studio_Universal_SD_Alter">
+    <display-name>Studio Universal SD [Alter]</display-name>
+  </channel>
+  <channel id="Syfy_FHD">
+    <display-name>Syfy FHD</display-name>
+  </channel>
+  <channel id="Syfy_FHD_Alter">
+    <display-name>Syfy FHD [Alter]</display-name>
+  </channel>
+  <channel id="Syfy_HD">
+    <display-name>Syfy HD</display-name>
+  </channel>
+  <channel id="Syfy_HD_Alter">
+    <display-name>Syfy HD [Alter]</display-name>
+  </channel>
+  <channel id="Syfy_SD">
+    <display-name>Syfy SD</display-name>
+  </channel>
+  <channel id="Syfy_SD_Alter">
+    <display-name>Syfy SD [Alter]</display-name>
+  </channel>
+  <channel id="TCM_SD">
+    <display-name>TCM SD</display-name>
+  </channel>
+  <channel id="TCM_SD_Alter">
+    <display-name>TCM SD [Alter]</display-name>
+  </channel>
+  <channel id="Telecine_Action_FHD">
+    <display-name>Telecine Action FHD</display-name>
+  </channel>
+  <channel id="Telecine_Action_FHD_Alter">
+    <display-name>Telecine Action FHD [Alter]</display-name>
+  </channel>
+  <channel id="Telecine_Action_HD">
+    <display-name>Telecine Action HD</display-name>
+  </channel>
+  <channel id="Telecine_Action_HD_Alter">
+    <display-name>Telecine Action HD [Alter]</display-name>
+  </channel>
+  <channel id="Telecine_Action_SD">
+    <display-name>Telecine Action SD</display-name>
+  </channel>
+  <channel id="Telecine_Action_SD_Alter">
+    <display-name>Telecine Action SD [Alter]</display-name>
+  </channel>
+  <channel id="Telecine_Cult_FHD">
+    <display-name>Telecine Cult FHD</display-name>
+  </channel>
+  <channel id="Telecine_Cult_FHD_Alter">
+    <display-name>Telecine Cult FHD [Alter]</display-name>
+  </channel>
+  <channel id="Telecine_Cult_HD">
+    <display-name>Telecine Cult HD</display-name>
+  </channel>
+  <channel id="Telecine_Cult_HD_Alter">
+    <display-name>Telecine Cult HD [Alter]</display-name>
+  </channel>
+  <channel id="Telecine_Cult_SD">
+    <display-name>Telecine Cult SD</display-name>
+  </channel>
+  <channel id="Telecine_Cult_SD_Alter">
+    <display-name>Telecine Cult SD [Alter]</display-name>
+  </channel>
+  <channel id="Telecine_Fun_FHD">
+    <display-name>Telecine Fun FHD</display-name>
+  </channel>
+  <channel id="Telecine_Fun_FHD_Alter">
+    <display-name>Telecine Fun FHD [Alter]</display-name>
+  </channel>
+  <channel id="Telecine_Fun_HD">
+    <display-name>Telecine Fun HD</display-name>
+  </channel>
+  <channel id="Telecine_Fun_HD_Alter">
+    <display-name>Telecine Fun HD [Alter]</display-name>
+  </channel>
+  <channel id="Telecine_Fun_SD">
+    <display-name>Telecine Fun SD</display-name>
+  </channel>
+  <channel id="Telecine_Fun_SD_Alter">
+    <display-name>Telecine Fun SD [Alter]</display-name>
+  </channel>
+  <channel id="Telecine_Pipoca_FHD">
+    <display-name>Telecine Pipoca FHD</display-name>
+  </channel>
+  <channel id="Telecine_Pipoca_FHD_Alter">
+    <display-name>Telecine Pipoca FHD [Alter]</display-name>
+  </channel>
+  <channel id="Telecine_Pipoca_HD">
+    <display-name>Telecine Pipoca HD</display-name>
+  </channel>
+  <channel id="Telecine_Pipoca_HD_Alter">
+    <display-name>Telecine Pipoca HD [Alter]</display-name>
+  </channel>
+  <channel id="Telecine_Pipoca_SD">
+    <display-name>Telecine Pipoca SD</display-name>
+  </channel>
+  <channel id="Telecine_Pipoca_SD_Alter">
+    <display-name>Telecine Pipoca SD [Alter]</display-name>
+  </channel>
+  <channel id="Telecine_Premium_FHD">
+    <display-name>Telecine Premium FHD</display-name>
+  </channel>
+  <channel id="Telecine_Premium_FHD_Alter">
+    <display-name>Telecine Premium FHD [Alter]</display-name>
+  </channel>
+  <channel id="Telecine_Premium_HD">
+    <display-name>Telecine Premium HD</display-name>
+  </channel>
+  <channel id="Telecine_Premium_HD_Alter">
+    <display-name>Telecine Premium HD [Alter]</display-name>
+  </channel>
+  <channel id="Telecine_Premium_SD">
+    <display-name>Telecine Premium SD</display-name>
+  </channel>
+  <channel id="Telecine_Premium_SD_Alter">
+    <display-name>Telecine Premium SD [Alter]</display-name>
+  </channel>
+  <channel id="Telecine_Touch_FHD">
+    <display-name>Telecine Touch FHD</display-name>
+  </channel>
+  <channel id="Telecine_Touch_FHD_Alter">
+    <display-name>Telecine Touch FHD [Alter]</display-name>
+  </channel>
+  <channel id="Telecine_Touch_HD">
+    <display-name>Telecine Touch HD</display-name>
+  </channel>
+  <channel id="Telecine_Touch_HD_Alter">
+    <display-name>Telecine Touch HD [Alter]</display-name>
+  </channel>
+  <channel id="Telecine_Touch_SD">
+    <display-name>Telecine Touch SD</display-name>
+  </channel>
+  <channel id="Telecine_Touch_SD_Alter">
+    <display-name>Telecine Touch SD [Alter]</display-name>
+  </channel>
+  <channel id="TNT_FHD">
+    <display-name>TNT FHD</display-name>
+  </channel>
+  <channel id="TNT_FHD_Alter">
+    <display-name>TNT FHD [Alter]</display-name>
+  </channel>
+  <channel id="TNT_HD">
+    <display-name>TNT HD</display-name>
+  </channel>
+  <channel id="TNT_HD_Alter">
+    <display-name>TNT HD [Alter]</display-name>
+  </channel>
+  <channel id="TNT_Novelas_FHD">
+    <display-name>TNT Novelas FHD</display-name>
+  </channel>
+  <channel id="TNT_Novelas_FHD_Alter">
+    <display-name>TNT Novelas FHD [Alter]</display-name>
+  </channel>
+  <channel id="TNT_Novelas_HD">
+    <display-name>TNT Novelas HD</display-name>
+  </channel>
+  <channel id="TNT_Novelas_HD_Alter">
+    <display-name>TNT Novelas HD [Alter]</display-name>
+  </channel>
+  <channel id="TNT_Novelas_SD">
+    <display-name>TNT Novelas SD</display-name>
+  </channel>
+  <channel id="TNT_Novelas_SD_Alter">
+    <display-name>TNT Novelas SD [Alter]</display-name>
+  </channel>
+  <channel id="TNT_SD">
+    <display-name>TNT SD</display-name>
+  </channel>
+  <channel id="TNT_SD_Alter">
+    <display-name>TNT SD [Alter]</display-name>
+  </channel>
+  <channel id="TNT_Series_FHD">
+    <display-name>TNT Series FHD</display-name>
+  </channel>
+  <channel id="TNT_Series_FHD_Alter">
+    <display-name>TNT Series FHD [Alter]</display-name>
+  </channel>
+  <channel id="TNT_Series_HD">
+    <display-name>TNT Series HD</display-name>
+  </channel>
+  <channel id="TNT_Series_HD_Alter">
+    <display-name>TNT Series HD [Alter]</display-name>
+  </channel>
+  <channel id="TNT_Series_SD">
+    <display-name>TNT Series SD</display-name>
+  </channel>
+  <channel id="TNT_Series_SD_Alter">
+    <display-name>TNT Series SD [Alter]</display-name>
+  </channel>
+  <channel id="Universal_Channel_FHD">
+    <display-name>Universal Channel FHD</display-name>
+  </channel>
+  <channel id="Universal_Channel_FHD_Alter">
+    <display-name>Universal Channel FHD [Alter]</display-name>
+  </channel>
+  <channel id="Universal_Channel_HD">
+    <display-name>Universal Channel HD</display-name>
+  </channel>
+  <channel id="Universal_Channel_HD_Alter">
+    <display-name>Universal Channel HD [Alter]</display-name>
+  </channel>
+  <channel id="Universal_Channel_SD">
+    <display-name>Universal Channel SD</display-name>
+  </channel>
+  <channel id="Universal_Channel_SD_Alter">
+    <display-name>Universal Channel SD [Alter]</display-name>
+  </channel>
+  <channel id="Warner_Channel_FHD">
+    <display-name>Warner Channel FHD</display-name>
+  </channel>
+  <channel id="Warner_Channel_FHD_Alter">
+    <display-name>Warner Channel FHD [Alter]</display-name>
+  </channel>
+  <channel id="Warner_Channel_HD">
+    <display-name>Warner Channel HD</display-name>
+  </channel>
+  <channel id="Warner_Channel_HD_Alter">
+    <display-name>Warner Channel HD [Alter]</display-name>
+  </channel>
+  <channel id="Warner_Channel_SD">
+    <display-name>Warner Channel SD</display-name>
+  </channel>
+  <channel id="Warner_Channel_SD_Alter">
+    <display-name>Warner Channel SD [Alter]</display-name>
+  </channel>
+  <channel id="Globo_Bahia_FHD">
+    <display-name>Globo Bahia FHD</display-name>
+  </channel>
+  <channel id="Globo_Bahia_FHD_Alter">
+    <display-name>Globo Bahia FHD [Alter]</display-name>
+  </channel>
+  <channel id="Globo_Bahia_HD">
+    <display-name>Globo Bahia HD</display-name>
+  </channel>
+  <channel id="Globo_Bahia_HD_Alter">
+    <display-name>Globo Bahia HD [Alter]</display-name>
+  </channel>
+  <channel id="Globo_Bahia_SD">
+    <display-name>Globo Bahia SD</display-name>
+  </channel>
+  <channel id="Globo_Bahia_SD_Alter">
+    <display-name>Globo Bahia SD [Alter]</display-name>
+  </channel>
+  <channel id="Globo_Bauru_FHD">
+    <display-name>Globo Bauru FHD</display-name>
+  </channel>
+  <channel id="Globo_Bauru_HD">
+    <display-name>Globo Bauru HD</display-name>
+  </channel>
+  <channel id="Globo_Bauru_SD">
+    <display-name>Globo Bauru SD</display-name>
+  </channel>
+  <channel id="Globo_Brasilia_FHD">
+    <display-name>Globo Brasilia FHD</display-name>
+  </channel>
+  <channel id="Globo_Brasilia_FHD_Alter">
+    <display-name>Globo Brasilia FHD [Alter]</display-name>
+  </channel>
+  <channel id="Globo_Brasilia_HD">
+    <display-name>Globo Brasilia HD</display-name>
+  </channel>
+  <channel id="Globo_Brasilia_HD_Alter">
+    <display-name>Globo Brasilia HD [Alter]</display-name>
+  </channel>
+  <channel id="Globo_Brasilia_SD">
+    <display-name>Globo Brasilia SD</display-name>
+  </channel>
+  <channel id="Globo_Brasilia_SD_Alter">
+    <display-name>Globo Brasilia SD [Alter]</display-name>
+  </channel>
+  <channel id="Globo_Centro_America_Cuiaba_FHD">
+    <display-name>Globo Centro America Cuiaba FHD</display-name>
+  </channel>
+  <channel id="Globo_Centro_America_Cuiaba_HD">
+    <display-name>Globo Centro America Cuiaba HD</display-name>
+  </channel>
+  <channel id="Globo_Centro_America_Cuiaba_SD">
+    <display-name>Globo Centro America Cuiaba SD</display-name>
+  </channel>
+  <channel id="Globo_EPTV_Campinas_FHD">
+    <display-name>Globo EPTV Campinas FHD</display-name>
+  </channel>
+  <channel id="Globo_EPTV_Campinas_FHD_Alter">
+    <display-name>Globo EPTV Campinas FHD [Alter]</display-name>
+  </channel>
+  <channel id="Globo_EPTV_Campinas_HD">
+    <display-name>Globo EPTV Campinas HD</display-name>
+  </channel>
+  <channel id="Globo_EPTV_Campinas_HD_Alter">
+    <display-name>Globo EPTV Campinas HD [Alter]</display-name>
+  </channel>
+  <channel id="Globo_EPTV_Campinas_SD">
+    <display-name>Globo EPTV Campinas SD</display-name>
+  </channel>
+  <channel id="Globo_EPTV_Campinas_SD_Alter">
+    <display-name>Globo EPTV Campinas SD [Alter]</display-name>
+  </channel>
+  <channel id="Globo_EPTV_Ribeirao_Preto_FHD">
+    <display-name>Globo EPTV Ribeirao Preto FHD</display-name>
+  </channel>
+  <channel id="Globo_EPTV_Ribeirao_Preto_FHD_Alter">
+    <display-name>Globo EPTV Ribeirao Preto FHD [Alter]</display-name>
+  </channel>
+  <channel id="Globo_EPTV_Ribeirao_Preto_HD">
+    <display-name>Globo EPTV Ribeirao Preto HD</display-name>
+  </channel>
+  <channel id="Globo_EPTV_Ribeirao_Preto_HD_Alter">
+    <display-name>Globo EPTV Ribeirao Preto HD [Alter]</display-name>
+  </channel>
+  <channel id="Globo_EPTV_Ribeirao_Preto_SD">
+    <display-name>Globo EPTV Ribeirao Preto SD</display-name>
+  </channel>
+  <channel id="Globo_EPTV_Ribeirao_Preto_SD_Alter">
+    <display-name>Globo EPTV Ribeirao Preto SD [Alter]</display-name>
+  </channel>
+  <channel id="Globo_EPTV_Sao_Carlos_FHD">
+    <display-name>Globo EPTV São Carlos FHD</display-name>
+  </channel>
+  <channel id="Globo_EPTV_Sao_Carlos_HD">
+    <display-name>Globo EPTV São Carlos HD</display-name>
+  </channel>
+  <channel id="Globo_EPTV_Sao_Carlos_SD">
+    <display-name>Globo EPTV São Carlos SD</display-name>
+  </channel>
+  <channel id="Globo_EPTV_Sul_de_Minas_FHD">
+    <display-name>Globo EPTV Sul de Minas FHD</display-name>
+  </channel>
+  <channel id="Globo_EPTV_Sul_de_Minas_HD">
+    <display-name>Globo EPTV Sul de Minas HD</display-name>
+  </channel>
+  <channel id="Globo_EPTV_Sul_de_Minas_SD">
+    <display-name>Globo EPTV Sul de Minas SD</display-name>
+  </channel>
+  <channel id="Globo_Inter_TV_Alto_Litoral_FHD">
+    <display-name>Globo Inter TV Alto Litoral FHD</display-name>
+  </channel>
+  <channel id="Globo_Inter_TV_Alto_Litoral_HD">
+    <display-name>Globo Inter TV Alto Litoral HD</display-name>
+  </channel>
+  <channel id="Globo_Inter_TV_Alto_Litoral_SD">
+    <display-name>Globo Inter TV Alto Litoral SD</display-name>
+  </channel>
+  <channel id="Globo_Inter_TV_Cabugi_FHD">
+    <display-name>Globo Inter TV Cabugi FHD</display-name>
+  </channel>
+  <channel id="Globo_Inter_TV_Cabugi_HD">
+    <display-name>Globo Inter TV Cabugi HD</display-name>
+  </channel>
+  <channel id="Globo_Inter_TV_Cabugi_SD">
+    <display-name>Globo Inter TV Cabugi SD</display-name>
+  </channel>
+  <channel id="Globo_Inter_TV_dos_Vales_FHD">
+    <display-name>Globo Inter TV dos Vales FHD</display-name>
+  </channel>
+  <channel id="Globo_Inter_TV_dos_Vales_HD">
+    <display-name>Globo Inter TV dos Vales HD</display-name>
+  </channel>
+  <channel id="Globo_Inter_Tv_dos_Vales_SD">
+    <display-name>Globo Inter Tv dos Vales SD</display-name>
+  </channel>
+  <channel id="Globo_Inter_TV_Grande_Minas_FHD">
+    <display-name>Globo Inter TV Grande Minas FHD</display-name>
+  </channel>
+  <channel id="Globo_Inter_TV_Grande_Minas_HD">
+    <display-name>Globo Inter TV Grande Minas HD</display-name>
+  </channel>
+  <channel id="Globo_Inter_TV_Grande_Minas_SD">
+    <display-name>Globo Inter TV Grande Minas SD</display-name>
+  </channel>
+  <channel id="Globo_Inter_TV_Serra_Mar_FHD">
+    <display-name>Globo Inter TV Serra Mar FHD</display-name>
+  </channel>
+  <channel id="Globo_Inter_TV_Serra_Mar_HD">
+    <display-name>Globo Inter TV Serra Mar HD</display-name>
+  </channel>
+  <channel id="Globo_Inter_TV_Serra_Mar_SD">
+    <display-name>Globo Inter TV Serra Mar SD</display-name>
+  </channel>
+  <channel id="Globo_Minas_FHD">
+    <display-name>Globo Minas FHD</display-name>
+  </channel>
+  <channel id="Globo_Minas_HD">
+    <display-name>Globo Minas HD</display-name>
+  </channel>
+  <channel id="Globo_Minas_SD">
+    <display-name>Globo Minas SD</display-name>
+  </channel>
+  <channel id="Globo_Nordeste_FHD">
+    <display-name>Globo Nordeste FHD</display-name>
+  </channel>
+  <channel id="Globo_Nordeste_FHD_Alter">
+    <display-name>Globo Nordeste FHD [Alter]</display-name>
+  </channel>
+  <channel id="Globo_Nordeste_HD">
+    <display-name>Globo Nordeste HD</display-name>
+  </channel>
+  <channel id="Globo_Nordeste_HD_Alter">
+    <display-name>Globo Nordeste HD [Alter]</display-name>
+  </channel>
+  <channel id="Globo_Nordeste_SD">
+    <display-name>Globo Nordeste SD</display-name>
+  </channel>
+  <channel id="Globo_Nordeste_SD_Alter">
+    <display-name>Globo Nordeste SD [Alter]</display-name>
+  </channel>
+  <channel id="Globo_NSC_TV_Blumenau_FHD">
+    <display-name>Globo NSC TV Blumenau FHD</display-name>
+  </channel>
+  <channel id="Globo_NSC_TV_Blumenau_HD">
+    <display-name>Globo NSC TV Blumenau HD</display-name>
+  </channel>
+  <channel id="Globo_NSC_TV_Blumenau_SD">
+    <display-name>Globo NSC TV Blumenau SD</display-name>
+  </channel>
+  <channel id="Globo_NSC_TV_Centro_Oeste_FHD">
+    <display-name>Globo NSC TV Centro Oeste FHD</display-name>
+  </channel>
+  <channel id="Globo_NSC_TV_Centro_Oeste_HD">
+    <display-name>Globo NSC TV Centro Oeste HD</display-name>
+  </channel>
+  <channel id="Globo_NSC_TV_Centro_Oeste_SD">
+    <display-name>Globo NSC TV Centro Oeste SD</display-name>
+  </channel>
+  <channel id="Globo_NSC_TV_Chapeco_FHD">
+    <display-name>Globo NSC TV Chapeco FHD</display-name>
+  </channel>
+  <channel id="Globo_NSC_TV_Chapeco_HD">
+    <display-name>Globo NSC TV Chapeco HD</display-name>
+  </channel>
+  <channel id="Globo_NSC_TV_Chapeco_SD">
+    <display-name>Globo NSC TV Chapeco SD</display-name>
+  </channel>
+  <channel id="Globo_NSC_TV_Criciuma_FHD">
+    <display-name>Globo NSC TV Criciuma FHD</display-name>
+  </channel>
+  <channel id="Globo_NSC_TV_Criciuma_HD">
+    <display-name>Globo NSC TV Criciuma HD</display-name>
+  </channel>
+  <channel id="Globo_NSC_TV_Criciuma_SD">
+    <display-name>Globo NSC TV Criciuma SD</display-name>
+  </channel>
+  <channel id="Globo_NSC_TV_Florianopolis_HD">
+    <display-name>Globo NSC TV Florianopolis HD</display-name>
+  </channel>
+  <channel id="Globo_NSC_TV_Florianopolis_SD">
+    <display-name>Globo NSC TV Florianopolis SD</display-name>
+  </channel>
+  <channel id="Globo_NSC_TV_JoinVille_FHD">
+    <display-name>Globo NSC TV JoinVille FHD</display-name>
+  </channel>
+  <channel id="Globo_NSC_TV_JoinVille_HD">
+    <display-name>Globo NSC TV JoinVille HD</display-name>
+  </channel>
+  <channel id="Globo_NSC_TV_JoinVille_SD">
+    <display-name>Globo NSC TV JoinVille SD</display-name>
+  </channel>
+  <channel id="Globo_RBS_TV_Caxias_do_Sul_FHD">
+    <display-name>Globo RBS TV Caxias do Sul FHD</display-name>
+  </channel>
+  <channel id="Globo_RBS_TV_Caxias_do_Sul_HD">
+    <display-name>Globo RBS TV Caxias do Sul HD</display-name>
+  </channel>
+  <channel id="Globo_RBS_TV_Caxias_do_Sul_SD">
+    <display-name>Globo RBS TV Caxias do Sul SD</display-name>
+  </channel>
+  <channel id="Globo_RBS_TV_Passo_Fundo_FHD">
+    <display-name>Globo RBS TV Passo Fundo FHD</display-name>
+  </channel>
+  <channel id="Globo_RBS_TV_Passo_Fundo_HD">
+    <display-name>Globo RBS TV Passo Fundo HD</display-name>
+  </channel>
+  <channel id="Globo_RBS_TV_Passo_Fundo_SD">
+    <display-name>Globo RBS TV Passo Fundo SD</display-name>
+  </channel>
+  <channel id="Globo_RBS_TV_Pelotas_FHD">
+    <display-name>Globo RBS TV Pelotas FHD</display-name>
+  </channel>
+  <channel id="Globo_RBS_TV_Pelotas_HD">
+    <display-name>Globo RBS TV Pelotas HD</display-name>
+  </channel>
+  <channel id="Globo_RBS_TV_Pelotas_SD">
+    <display-name>Globo RBS TV Pelotas SD</display-name>
+  </channel>
+  <channel id="Globo_RBS_TV_Porto_Alegre_FHD">
+    <display-name>Globo RBS TV Porto Alegre FHD</display-name>
+  </channel>
+  <channel id="Globo_RBS_TV_Porto_Alegre_FHD_Alter">
+    <display-name>Globo RBS TV Porto Alegre FHD [Alter]</display-name>
+  </channel>
+  <channel id="Globo_RBS_TV_Porto_Alegre_HD">
+    <display-name>Globo RBS TV Porto Alegre HD</display-name>
+  </channel>
+  <channel id="Globo_RBS_TV_Porto_Alegre_HD_Alter">
+    <display-name>Globo RBS TV Porto Alegre HD [Alter]</display-name>
+  </channel>
+  <channel id="Globo_RBS_TV_Porto_Alegre_SD">
+    <display-name>Globo RBS TV Porto Alegre SD</display-name>
+  </channel>
+  <channel id="Globo_RBS_TV_Porto_Alegre_SD_Alter">
+    <display-name>Globo RBS TV Porto Alegre SD [Alter]</display-name>
+  </channel>
+  <channel id="Globo_RBS_TV_Santa_Maria_FHD">
+    <display-name>Globo RBS TV Santa Maria FHD</display-name>
+  </channel>
+  <channel id="Globo_RBS_TV_Santa_Maria_HD">
+    <display-name>Globo RBS TV Santa Maria HD</display-name>
+  </channel>
+  <channel id="Globo_RBS_TV_Santa_Maria_SD">
+    <display-name>Globo RBS TV Santa Maria SD</display-name>
+  </channel>
+  <channel id="Globo_RJ_FHD">
+    <display-name>Globo RJ FHD</display-name>
+  </channel>
+  <channel id="Globo_RJ_FHD_Alter">
+    <display-name>Globo RJ FHD [Alter]</display-name>
+  </channel>
+  <channel id="Globo_RJ_HD">
+    <display-name>Globo RJ HD</display-name>
+  </channel>
+  <channel id="Globo_RJ_HD_Alter">
+    <display-name>Globo RJ HD [Alter]</display-name>
+  </channel>
+  <channel id="Globo_RJ_SD">
+    <display-name>Globo RJ SD</display-name>
+  </channel>
+  <channel id="Globo_RJ_SD_Alter">
+    <display-name>Globo RJ SD [Alter]</display-name>
+  </channel>
+  <channel id="Globo_RPC_Cascavel_FHD">
+    <display-name>Globo RPC Cascavel FHD</display-name>
+  </channel>
+  <channel id="Globo_RPC_Cascavel_HD">
+    <display-name>Globo RPC Cascavel HD</display-name>
+  </channel>
+  <channel id="Globo_RPC_Cascavel_SD">
+    <display-name>Globo RPC Cascavel SD</display-name>
+  </channel>
+  <channel id="Globo_RPC_Curitiba_FHD">
+    <display-name>Globo RPC Curitiba FHD</display-name>
+  </channel>
+  <channel id="Globo_RPC_Curitiba_FHD_Alter">
+    <display-name>Globo RPC Curitiba FHD [Alter]</display-name>
+  </channel>
+  <channel id="Globo_RPC_Curitiba_HD">
+    <display-name>Globo RPC Curitiba HD</display-name>
+  </channel>
+  <channel id="Globo_RPC_Curitiba_HD_Alter">
+    <display-name>Globo RPC Curitiba HD [Alter]</display-name>
+  </channel>
+  <channel id="Globo_RPC_Curitiba_SD">
+    <display-name>Globo RPC Curitiba SD</display-name>
+  </channel>
+  <channel id="Globo_RPC_Curitiba_SD_Alter">
+    <display-name>Globo RPC Curitiba SD [Alter]</display-name>
+  </channel>
+  <channel id="Globo_RPC_Foz_do_Iguacu_HD">
+    <display-name>Globo RPC Foz do Iguacu HD</display-name>
+  </channel>
+  <channel id="Globo_RPC_Foz_do_Iguacu_SD">
+    <display-name>Globo RPC Foz do Iguacu SD</display-name>
+  </channel>
+  <channel id="Globo_RPC_Londrina_FHD">
+    <display-name>Globo RPC Londrina FHD</display-name>
+  </channel>
+  <channel id="Globo_RPC_Londrina_HD">
+    <display-name>Globo RPC Londrina HD</display-name>
+  </channel>
+  <channel id="Globo_RPC_Londrina_SD">
+    <display-name>Globo RPC Londrina SD</display-name>
+  </channel>
+  <channel id="Globo_RPC_Maringa_FHD">
+    <display-name>Globo RPC Maringa FHD</display-name>
+  </channel>
+  <channel id="Globo_RPC_Maringa_HD">
+    <display-name>Globo RPC Maringa HD</display-name>
+  </channel>
+  <channel id="Globo_RPC_Maringa_SD">
+    <display-name>Globo RPC Maringa SD</display-name>
+  </channel>
+  <channel id="Globo_RPC_TV_Paranavai_FHD">
+    <display-name>Globo RPC TV Paranavai FHD</display-name>
+  </channel>
+  <channel id="Globo_RPC_TV_Paranavai_HD">
+    <display-name>Globo RPC TV Paranavai HD</display-name>
+  </channel>
+  <channel id="Globo_RPC_TV_Paranavai_SD">
+    <display-name>Globo RPC TV Paranavai SD</display-name>
+  </channel>
+  <channel id="Globo_RPC_TV_Ponta_Grossa_FHD">
+    <display-name>Globo RPC TV Ponta Grossa FHD</display-name>
+  </channel>
+  <channel id="Globo_RPC_TV_Ponta_Grossa_HD">
+    <display-name>Globo RPC TV Ponta Grossa HD</display-name>
+  </channel>
+  <channel id="Globo_RPC_TV_Ponta_Grossa_SD">
+    <display-name>Globo RPC TV Ponta Grossa SD</display-name>
+  </channel>
+  <channel id="Globo_Sorocaba_FHD">
+    <display-name>Globo Sorocaba FHD</display-name>
+  </channel>
+  <channel id="Globo_Sorocaba_HD">
+    <display-name>Globo Sorocaba HD</display-name>
+  </channel>
+  <channel id="Globo_Sorocaba_SD">
+    <display-name>Globo Sorocaba SD</display-name>
+  </channel>
+  <channel id="Globo_SP_FHD">
+    <display-name>Globo SP FHD</display-name>
+  </channel>
+  <channel id="Globo_SP_FHD_Alter">
+    <display-name>Globo SP FHD [Alter]</display-name>
+  </channel>
+  <channel id="Globo_SP_HD">
+    <display-name>Globo SP HD</display-name>
+  </channel>
+  <channel id="Globo_SP_HD_Alter">
+    <display-name>Globo SP HD [Alter]</display-name>
+  </channel>
+  <channel id="Globo_SP_SD">
+    <display-name>Globo SP SD</display-name>
+  </channel>
+  <channel id="Globo_SP_SD_Alter">
+    <display-name>Globo SP SD [Alter]</display-name>
+  </channel>
+  <channel id="Globo_TV_Anhanguera_HD">
+    <display-name>Globo TV Anhanguera HD</display-name>
+  </channel>
+  <channel id="Globo_TV_Anhanguera_HD_Alter">
+    <display-name>Globo TV Anhanguera HD [Alter]</display-name>
+  </channel>
+  <channel id="Globo_TV_Anhanguera_SD">
+    <display-name>Globo TV Anhanguera SD</display-name>
+  </channel>
+  <channel id="Globo_TV_Anhanguera_SD_Alter">
+    <display-name>Globo TV Anhanguera SD [Alter]</display-name>
+  </channel>
+  <channel id="Globo_TV_Asa_Branca_FHD">
+    <display-name>Globo TV Asa Branca FHD</display-name>
+  </channel>
+  <channel id="Globo_TV_Asa_Branca_HD">
+    <display-name>Globo TV Asa Branca HD</display-name>
+  </channel>
+  <channel id="Globo_TV_Asa_Branca_SD">
+    <display-name>Globo TV Asa Branca SD</display-name>
+  </channel>
+  <channel id="Globo_TV_Cabo_Branco_FHD">
+    <display-name>Globo TV Cabo Branco FHD</display-name>
+  </channel>
+  <channel id="Globo_TV_Cabo_Branco_HD">
+    <display-name>Globo TV Cabo Branco HD</display-name>
+  </channel>
+  <channel id="Globo_TV_Cabo_Branco_SD">
+    <display-name>Globo TV Cabo Branco SD</display-name>
+  </channel>
+  <channel id="Globo_TV_Clube_Teresina_FHD">
+    <display-name>Globo TV Clube Teresina FHD</display-name>
+  </channel>
+  <channel id="Globo_TV_Clube_Teresina_HD">
+    <display-name>Globo TV Clube Teresina HD</display-name>
+  </channel>
+  <channel id="Globo_TV_Clube_Teresina_SD">
+    <display-name>Globo TV Clube Teresina SD</display-name>
+  </channel>
+  <channel id="Globo_TV_Diario_Mogi_Das_Cruzes_FHD">
+    <display-name>Globo TV Diario Mogi Das Cruzes FHD</display-name>
+  </channel>
+  <channel id="Globo_TV_Diario_Mogi_Das_Cruzes_HD">
+    <display-name>Globo TV Diario Mogi Das Cruzes HD</display-name>
+  </channel>
+  <channel id="Globo_TV_Diario_Mogi_Das_Cruzes_SD">
+    <display-name>Globo TV Diario Mogi Das Cruzes SD</display-name>
+  </channel>
+  <channel id="Globo_TV_Fronteira_P._Prudente_FHD">
+    <display-name>Globo TV Fronteira P. Prudente FHD</display-name>
+  </channel>
+  <channel id="Globo_TV_Fronteira_P._Prudente_HD">
+    <display-name>Globo TV Fronteira P. Prudente HD</display-name>
+  </channel>
+  <channel id="Globo_TV_Fronteira_P._Prudente_SD">
+    <display-name>Globo TV Fronteira P. Prudente SD</display-name>
+  </channel>
+  <channel id="Globo_TV_Gazeta_Alagoas_FHD">
+    <display-name>Globo TV Gazeta Alagoas FHD</display-name>
+  </channel>
+  <channel id="Globo_TV_Gazeta_Alagoas_HD">
+    <display-name>Globo TV Gazeta Alagoas HD</display-name>
+  </channel>
+  <channel id="Globo_TV_Gazeta_Alagoas_SD">
+    <display-name>Globo TV Gazeta Alagoas SD</display-name>
+  </channel>
+  <channel id="Globo_TV_Gazeta_Sul_ES_FHD">
+    <display-name>Globo TV Gazeta Sul ES FHD</display-name>
+  </channel>
+  <channel id="Globo_TV_Gazeta_Sul_ES_HD">
+    <display-name>Globo TV Gazeta Sul ES HD</display-name>
+  </channel>
+  <channel id="Globo_TV_Gazeta_Sul_ES_SD">
+    <display-name>Globo TV Gazeta Sul ES SD</display-name>
+  </channel>
+  <channel id="Globo_TV_Gazeta_Vitoria_FHD">
+    <display-name>Globo TV Gazeta Vitoria FHD</display-name>
+  </channel>
+  <channel id="Globo_TV_Gazeta_Vitoria_HD">
+    <display-name>Globo TV Gazeta Vitoria HD</display-name>
+  </channel>
+  <channel id="Globo_TV_Gazeta_Vitoria_SD">
+    <display-name>Globo TV Gazeta Vitoria SD</display-name>
+  </channel>
+  <channel id="Globo_TV_Inregracao_Uberlandia_HD">
+    <display-name>Globo TV Inregracao Uberlandia HD</display-name>
+  </channel>
+  <channel id="Globo_TV_Integracao_Araxa_FHD">
+    <display-name>Globo TV Integracao Araxa FHD</display-name>
+  </channel>
+  <channel id="Globo_TV_Integracao_Araxa_HD">
+    <display-name>Globo TV Integracao Araxa HD</display-name>
+  </channel>
+  <channel id="Globo_TV_Integracao_Araxa_SD">
+    <display-name>Globo TV Integracao Araxa SD</display-name>
+  </channel>
+  <channel id="Globo_TV_Integracao_Juiz_de_Fora_FHD">
+    <display-name>Globo TV Integracao Juiz de Fora FHD</display-name>
+  </channel>
+  <channel id="Globo_TV_Integracao_Juiz_de_Fora_HD">
+    <display-name>Globo TV Integracao Juiz de Fora HD</display-name>
+  </channel>
+  <channel id="Globo_TV_Integracao_Juiz_de_Fora_SD">
+    <display-name>Globo TV Integracao Juiz de Fora SD</display-name>
+  </channel>
+  <channel id="Globo_TV_Integracao_Uberaba_FHD">
+    <display-name>Globo TV Integracao Uberaba FHD</display-name>
+  </channel>
+  <channel id="Globo_TV_Integracao_Uberaba_HD">
+    <display-name>Globo TV Integracao Uberaba HD</display-name>
+  </channel>
+  <channel id="Globo_TV_Integracao_Uberaba_SD">
+    <display-name>Globo TV Integracao Uberaba SD</display-name>
+  </channel>
+  <channel id="Globo_TV_Integracao_Uberlandia_FHD">
+    <display-name>Globo TV Integracao Uberlandia FHD</display-name>
+  </channel>
+  <channel id="Globo_TV_Integracao_Uberlandia_SD">
+    <display-name>Globo TV Integracao Uberlandia SD</display-name>
+  </channel>
+  <channel id="Globo_TV_Liberal_Belem_FHD">
+    <display-name>Globo TV Liberal Belem FHD</display-name>
+  </channel>
+  <channel id="Globo_TV_Liberal_Belem_HD">
+    <display-name>Globo TV Liberal Belem HD</display-name>
+  </channel>
+  <channel id="Globo_TV_Liberal_Belem_SD">
+    <display-name>Globo TV Liberal Belem SD</display-name>
+  </channel>
+  <channel id="Globo_TV_Mirante_Cocais_FHD">
+    <display-name>Globo TV Mirante Cocais FHD</display-name>
+  </channel>
+  <channel id="Globo_TV_Mirante_Cocais_HD">
+    <display-name>Globo TV Mirante Cocais HD</display-name>
+  </channel>
+  <channel id="Globo_TV_Mirante_Cocais_SD">
+    <display-name>Globo TV Mirante Cocais SD</display-name>
+  </channel>
+  <channel id="Globo_TV_Mirante_FHD">
+    <display-name>Globo TV Mirante FHD</display-name>
+  </channel>
+  <channel id="Globo_TV_Mirante_HD">
+    <display-name>Globo TV Mirante HD</display-name>
+  </channel>
+  <channel id="Globo_TV_Mirante_SD">
+    <display-name>Globo TV Mirante SD</display-name>
+  </channel>
+  <channel id="Globo_TV_Morena_FHD">
+    <display-name>Globo TV Morena FHD</display-name>
+  </channel>
+  <channel id="Globo_TV_Morena_HD">
+    <display-name>Globo TV Morena HD</display-name>
+  </channel>
+  <channel id="Globo_TV_Morena_SD">
+    <display-name>Globo TV Morena SD</display-name>
+  </channel>
+  <channel id="Globo_TV_Rede_Amazonica_Boa_Vista_FHD">
+    <display-name>Globo TV Rede Amazonica Boa Vista FHD</display-name>
+  </channel>
+  <channel id="Globo_TV_Rede_Amazonica_Boa_Vista_HD">
+    <display-name>Globo TV Rede Amazonica Boa Vista HD</display-name>
+  </channel>
+  <channel id="Globo_TV_Rede_Amazonica_Boa_Vista_SD">
+    <display-name>Globo TV Rede Amazonica Boa Vista SD</display-name>
+  </channel>
+  <channel id="Globo_TV_Rede_Amazonica_Macapa_FHD">
+    <display-name>Globo TV Rede Amazonica Macapa FHD</display-name>
+  </channel>
+  <channel id="Globo_TV_Rede_Amazonica_Macapa_HD">
+    <display-name>Globo TV Rede Amazonica Macapa HD</display-name>
+  </channel>
+  <channel id="Globo_TV_Rede_Amazonica_Macapa_SD">
+    <display-name>Globo TV Rede Amazonica Macapa SD</display-name>
+  </channel>
+  <channel id="Globo_TV_Rede_Amazonica_Manaus_FHD">
+    <display-name>Globo TV Rede Amazonica Manaus FHD</display-name>
+  </channel>
+  <channel id="Globo_TV_Rede_Amazonica_Manaus_HD">
+    <display-name>Globo TV Rede Amazonica Manaus HD</display-name>
+  </channel>
+  <channel id="Globo_TV_Rede_Amazonica_Manaus_SD">
+    <display-name>Globo TV Rede Amazonica Manaus SD</display-name>
+  </channel>
+  <channel id="Globo_TV_Rede_Amazonica_Porto_Velho_FHD">
+    <display-name>Globo TV Rede Amazonica Porto Velho FHD</display-name>
+  </channel>
+  <channel id="Globo_TV_Rede_Amazonica_Porto_Velho_HD">
+    <display-name>Globo TV Rede Amazonica Porto Velho HD</display-name>
+  </channel>
+  <channel id="Globo_TV_Rede_Amazonica_Porto_Velho_SD">
+    <display-name>Globo TV Rede Amazonica Porto Velho SD</display-name>
+  </channel>
+  <channel id="Globo_TV_Rede_Amazonica_Rio_Branco_FHD">
+    <display-name>Globo TV Rede Amazonica Rio Branco FHD</display-name>
+  </channel>
+  <channel id="Globo_TV_Rede_Amazonica_Rio_Branco_HD">
+    <display-name>Globo TV Rede Amazonica Rio Branco HD</display-name>
+  </channel>
+  <channel id="Globo_TV_Rede_Amazonica_Rio_Branco_SD">
+    <display-name>Globo TV Rede Amazonica Rio Branco SD</display-name>
+  </channel>
+  <channel id="Globo_TV_Rio_Sul_FHD">
+    <display-name>Globo TV Rio Sul FHD</display-name>
+  </channel>
+  <channel id="Globo_TV_Rio_Sul_HD">
+    <display-name>Globo TV Rio Sul HD</display-name>
+  </channel>
+  <channel id="Globo_TV_Rio_Sul_SD">
+    <display-name>Globo TV Rio Sul SD</display-name>
+  </channel>
+  <channel id="Globo_TV_Santa_Cruz_FHD">
+    <display-name>Globo TV Santa Cruz FHD</display-name>
+  </channel>
+  <channel id="Globo_TV_Santa_Cruz_HD">
+    <display-name>Globo TV Santa Cruz HD</display-name>
+  </channel>
+  <channel id="Globo_TV_Santa_Cruz_SD">
+    <display-name>Globo TV Santa Cruz SD</display-name>
+  </channel>
+  <channel id="Globo_TV_Sergipe_FHD">
+    <display-name>Globo TV Sergipe FHD</display-name>
+  </channel>
+  <channel id="Globo_TV_Sergipe_HD">
+    <display-name>Globo TV Sergipe HD</display-name>
+  </channel>
+  <channel id="Globo_TV_Sergipe_SD">
+    <display-name>Globo TV Sergipe SD</display-name>
+  </channel>
+  <channel id="Globo_TV_Subae_FHD">
+    <display-name>Globo TV Subae FHD</display-name>
+  </channel>
+  <channel id="Globo_TV_Subae_HD">
+    <display-name>Globo TV Subae HD</display-name>
+  </channel>
+  <channel id="Globo_TV_Subae_SD">
+    <display-name>Globo TV Subae SD</display-name>
+  </channel>
+  <channel id="Globo_TV_Sudoeste_FHD">
+    <display-name>Globo TV Sudoeste FHD</display-name>
+  </channel>
+  <channel id="Globo_TV_Sudoeste_HD">
+    <display-name>Globo TV Sudoeste HD</display-name>
+  </channel>
+  <channel id="Globo_TV_Sudoeste_SD">
+    <display-name>Globo TV Sudoeste SD</display-name>
+  </channel>
+  <channel id="Globo_TV_Tem_Itapetininga_FHD">
+    <display-name>Globo TV Tem Itapetininga FHD</display-name>
+  </channel>
+  <channel id="Globo_TV_Tem_Itapetininga_HD">
+    <display-name>Globo TV Tem Itapetininga HD</display-name>
+  </channel>
+  <channel id="Globo_TV_Tem_Itapetininga_SD">
+    <display-name>Globo TV Tem Itapetininga SD</display-name>
+  </channel>
+  <channel id="Globo_TV_Tem_S.J._do_Rio_Preto_FHD">
+    <display-name>Globo TV Tem S.J. do Rio Preto FHD</display-name>
+  </channel>
+  <channel id="Globo_TV_Tem_S.J._do_Rio_Preto_HD">
+    <display-name>Globo TV Tem S.J. do Rio Preto HD</display-name>
+  </channel>
+  <channel id="Globo_TV_Tem_S.J._do_Rio_Preto_SD">
+    <display-name>Globo TV Tem S.J. do Rio Preto SD</display-name>
+  </channel>
+  <channel id="Globo_TV_Tribuna_Santos_FHD">
+    <display-name>Globo TV Tribuna Santos FHD</display-name>
+  </channel>
+  <channel id="Globo_TV_Tribuna_Santos_HD">
+    <display-name>Globo TV Tribuna Santos HD</display-name>
+  </channel>
+  <channel id="Globo_TV_Tribuna_Santos_SD">
+    <display-name>Globo TV Tribuna Santos SD</display-name>
+  </channel>
+  <channel id="Globo_TV_Vanguarda_FHD">
+    <display-name>Globo TV Vanguarda FHD</display-name>
+  </channel>
+  <channel id="Globo_TV_Vanguarda_HD">
+    <display-name>Globo TV Vanguarda HD</display-name>
+  </channel>
+  <channel id="Globo_TV_Vanguarda_SD">
+    <display-name>Globo TV Vanguarda SD</display-name>
+  </channel>
+  <channel id="Globo_TV_Vanguarda_SD_Alter">
+    <display-name>Globo TV Vanguarda SD [Alter]</display-name>
+  </channel>
+  <channel id="Globo_TV_Vanguarda_Taubate_FHD">
+    <display-name>Globo TV Vanguarda Taubate FHD</display-name>
+  </channel>
+  <channel id="Globo_TV_Vanguarda_Taubate_HD">
+    <display-name>Globo TV Vanguarda Taubate HD</display-name>
+  </channel>
+  <channel id="Globo_TV_Vanguarda_Taubate_SD">
+    <display-name>Globo TV Vanguarda Taubate SD</display-name>
+  </channel>
+  <channel id="Globo_TV_Verdes_Mares_Cariri_FHD">
+    <display-name>Globo TV Verdes Mares Cariri FHD</display-name>
+  </channel>
+  <channel id="Globo_TV_Verdes_Mares_Cariri_HD">
+    <display-name>Globo TV Verdes Mares Cariri HD</display-name>
+  </channel>
+  <channel id="Globo_TV_Verdes_Mares_Cariri_SD">
+    <display-name>Globo TV Verdes Mares Cariri SD</display-name>
+  </channel>
+  <channel id="Globo_TV_Verdes_Mares_Fortaleza_FHD">
+    <display-name>Globo TV Verdes Mares Fortaleza FHD</display-name>
+  </channel>
+  <channel id="Globo_TV_Verdes_Mares_Fortaleza_HD">
+    <display-name>Globo TV Verdes Mares Fortaleza HD</display-name>
+  </channel>
+  <channel id="Globo_TV_Verdes_Mares_Fortaleza_SD">
+    <display-name>Globo TV Verdes Mares Fortaleza SD</display-name>
+  </channel>
+  <channel id="Rede_Amazonica_SD">
+    <display-name>Rede Amazonica SD</display-name>
+  </channel>
+  <channel id="Boomerang_FHD">
+    <display-name>Boomerang FHD</display-name>
+  </channel>
+  <channel id="Boomerang_FHD_Alter">
+    <display-name>Boomerang FHD [Alter]</display-name>
+  </channel>
+  <channel id="Boomerang_HD">
+    <display-name>Boomerang HD</display-name>
+  </channel>
+  <channel id="Boomerang_HD_Alter">
+    <display-name>Boomerang HD [Alter]</display-name>
+  </channel>
+  <channel id="Boomerang_SD">
+    <display-name>Boomerang SD</display-name>
+  </channel>
+  <channel id="Boomerang_SD_Alter">
+    <display-name>Boomerang SD [Alter]</display-name>
+  </channel>
+  <channel id="Cartoon_Network_FHD">
+    <display-name>Cartoon Network FHD</display-name>
+  </channel>
+  <channel id="Cartoon_Network_FHD_Alter">
+    <display-name>Cartoon Network FHD [Alter]</display-name>
+  </channel>
+  <channel id="Cartoon_Network_HD">
+    <display-name>Cartoon Network HD</display-name>
+  </channel>
+  <channel id="Cartoon_Network_HD_Alter">
+    <display-name>Cartoon Network HD [Alter]</display-name>
+  </channel>
+  <channel id="Cartoon_Network_SD">
+    <display-name>Cartoon Network SD</display-name>
+  </channel>
+  <channel id="Cartoon_Network_SD_Alter">
+    <display-name>Cartoon Network SD [Alter]</display-name>
+  </channel>
+  <channel id="Discovery_Kids_FHD">
+    <display-name>Discovery Kids FHD</display-name>
+  </channel>
+  <channel id="Discovery_Kids_FHD_Alter">
+    <display-name>Discovery Kids FHD [Alter]</display-name>
+  </channel>
+  <channel id="Discovery_Kids_HD">
+    <display-name>Discovery Kids HD</display-name>
+  </channel>
+  <channel id="Discovery_Kids_HD_Alter">
+    <display-name>Discovery Kids HD [Alter]</display-name>
+  </channel>
+  <channel id="Discovery_Kids_SD">
+    <display-name>Discovery Kids SD</display-name>
+  </channel>
+  <channel id="Discovery_Kids_SD_Alter">
+    <display-name>Discovery Kids SD [Alter]</display-name>
+  </channel>
+  <channel id="Gloob_FHD">
+    <display-name>Gloob FHD</display-name>
+  </channel>
+  <channel id="Gloob_FHD_Alter">
+    <display-name>Gloob FHD [Alter]</display-name>
+  </channel>
+  <channel id="Gloob_HD">
+    <display-name>Gloob HD</display-name>
+  </channel>
+  <channel id="Gloob_HD_Alter">
+    <display-name>Gloob HD [Alter]</display-name>
+  </channel>
+  <channel id="Gloob_SD">
+    <display-name>Gloob SD</display-name>
+  </channel>
+  <channel id="Gloob_SD_Alter">
+    <display-name>Gloob SD [Alter]</display-name>
+  </channel>
+  <channel id="Nick_Jr_FHD">
+    <display-name>Nick Jr FHD</display-name>
+  </channel>
+  <channel id="Nick_Jr_FHD_Alter">
+    <display-name>Nick Jr FHD [Alter]</display-name>
+  </channel>
+  <channel id="Nick_Jr_HD">
+    <display-name>Nick Jr HD</display-name>
+  </channel>
+  <channel id="Nick_Jr_HD_Alter">
+    <display-name>Nick Jr HD [Alter]</display-name>
+  </channel>
+  <channel id="Nick_Jr_SD">
+    <display-name>Nick Jr SD</display-name>
+  </channel>
+  <channel id="Nick_Jr_SD_Alter">
+    <display-name>Nick Jr SD [Alter]</display-name>
+  </channel>
+  <channel id="Nickelodeon_FHD">
+    <display-name>Nickelodeon FHD</display-name>
+  </channel>
+  <channel id="Nickelodeon_FHD_Alter">
+    <display-name>Nickelodeon FHD [Alter]</display-name>
+  </channel>
+  <channel id="Nickelodeon_HD">
+    <display-name>Nickelodeon HD</display-name>
+  </channel>
+  <channel id="Nickelodeon_HD_Alter">
+    <display-name>Nickelodeon HD [Alter]</display-name>
+  </channel>
+  <channel id="Nickelodeon_SD">
+    <display-name>Nickelodeon SD</display-name>
+  </channel>
+  <channel id="Nickelodeon_SD_Alter">
+    <display-name>Nickelodeon SD [Alter]</display-name>
+  </channel>
+  <channel id="Tooncast_SD">
+    <display-name>Tooncast SD</display-name>
+  </channel>
+  <channel id="Tooncast_SD_Alter">
+    <display-name>Tooncast SD [Alter]</display-name>
+  </channel>
+  <channel id="TV_Gloobinho_FHD">
+    <display-name>TV Gloobinho FHD</display-name>
+  </channel>
+  <channel id="TV_Gloobinho_HD">
+    <display-name>TV Gloobinho HD</display-name>
+  </channel>
+  <channel id="TV_Gloobinho_SD">
+    <display-name>TV Gloobinho SD</display-name>
+  </channel>
+  <channel id="TV_Ra_tim_bum_FHD">
+    <display-name>TV Ra tim bum FHD</display-name>
+  </channel>
+  <channel id="TV_Ra_tim_bum_FHD_Alter">
+    <display-name>TV Ra tim bum FHD [Alter]</display-name>
+  </channel>
+  <channel id="TV_Ra_tim_bum_HD">
+    <display-name>TV Ra tim bum HD</display-name>
+  </channel>
+  <channel id="TV_Ra_tim_bum_HD_Alter">
+    <display-name>TV Ra tim bum HD [Alter]</display-name>
+  </channel>
+  <channel id="TV_Ra_tim_bum_SD">
+    <display-name>TV Ra tim bum SD</display-name>
+  </channel>
+  <channel id="TV_Ra_tim_bum_SD_Alter">
+    <display-name>TV Ra tim bum SD [Alter]</display-name>
+  </channel>
+  <channel id="Zoomoo_SD">
+    <display-name>Zoomoo SD</display-name>
+  </channel>
+  <channel id="Zoomoo_SD_Alter">
+    <display-name>Zoomoo SD [Alter]</display-name>
+  </channel>
+  <channel id="AXN_HD_LEG">
+    <display-name>AXN HD LEG</display-name>
+  </channel>
+  <channel id="AXN_SD_LEG">
+    <display-name>AXN SD LEG</display-name>
+  </channel>
+  <channel id="Canal_Sony_HD_LEG">
+    <display-name>Canal Sony HD LEG</display-name>
+  </channel>
+  <channel id="Canal_Sony_SD_LEG">
+    <display-name>Canal Sony SD LEG</display-name>
+  </channel>
+  <channel id="HBO_HD_LEG">
+    <display-name>HBO HD LEG</display-name>
+  </channel>
+  <channel id="HBO_Mundi_SD_LEG">
+    <display-name>HBO Mundi SD LEG</display-name>
+  </channel>
+  <channel id="HBO_Plus_HD_LEG">
+    <display-name>HBO Plus HD LEG</display-name>
+  </channel>
+  <channel id="HBO_Plus_SD_LEG">
+    <display-name>HBO Plus SD LEG</display-name>
+  </channel>
+  <channel id="HBO_Pop_HD_LEG">
+    <display-name>HBO Pop HD LEG</display-name>
+  </channel>
+  <channel id="HBO_Pop_SD_LEG">
+    <display-name>HBO Pop SD LEG</display-name>
+  </channel>
+  <channel id="HBO_SD_LEG">
+    <display-name>HBO SD LEG</display-name>
+  </channel>
+  <channel id="HBO_Xtreme_SD_LEG">
+    <display-name>HBO Xtreme SD LEG</display-name>
+  </channel>
+  <channel id="Megapix_HD_LEG">
+    <display-name>Megapix HD LEG</display-name>
+  </channel>
+  <channel id="Megapix_SD_LEG">
+    <display-name>Megapix SD LEG</display-name>
+  </channel>
+  <channel id="Space_HD_LEG">
+    <display-name>Space HD LEG</display-name>
+  </channel>
+  <channel id="Space_SD_LEG">
+    <display-name>Space SD LEG</display-name>
+  </channel>
+  <channel id="Telecine_Action_HD_LEG">
+    <display-name>Telecine Action HD LEG</display-name>
+  </channel>
+  <channel id="Telecine_Action_SD_LEG">
+    <display-name>Telecine Action SD LEG</display-name>
+  </channel>
+  <channel id="Telecine_Cult_HD_LEG">
+    <display-name>Telecine Cult HD LEG</display-name>
+  </channel>
+  <channel id="Telecine_Cult_SD_LEG">
+    <display-name>Telecine Cult SD LEG</display-name>
+  </channel>
+  <channel id="Telecine_Fun_HD_LEG">
+    <display-name>Telecine Fun HD LEG</display-name>
+  </channel>
+  <channel id="Telecine_Fun_SD_LEG">
+    <display-name>Telecine Fun SD LEG</display-name>
+  </channel>
+  <channel id="Telecine_Pipoca_HD_LEG">
+    <display-name>Telecine Pipoca HD LEG</display-name>
+  </channel>
+  <channel id="Telecine_Pipoca_SD_LEG">
+    <display-name>Telecine Pipoca SD LEG</display-name>
+  </channel>
+  <channel id="Telecine_Premium_HD_LEG">
+    <display-name>Telecine Premium HD LEG</display-name>
+  </channel>
+  <channel id="Telecine_Premium_SD_LEG">
+    <display-name>Telecine Premium SD LEG</display-name>
+  </channel>
+  <channel id="Telecine_Touch_HD_LEG">
+    <display-name>Telecine Touch HD LEG</display-name>
+  </channel>
+  <channel id="Telecine_Touch_SD_LEG">
+    <display-name>Telecine Touch SD LEG</display-name>
+  </channel>
+  <channel id="TNT_HD_LEG">
+    <display-name>TNT HD LEG</display-name>
+  </channel>
+  <channel id="TNT_SD_LEG">
+    <display-name>TNT SD LEG</display-name>
+  </channel>
+  <channel id="TNT_Series_HD_LEG">
+    <display-name>TNT Series HD LEG</display-name>
+  </channel>
+  <channel id="TNT_Series_SD_LEG">
+    <display-name>TNT Series SD LEG</display-name>
+  </channel>
+  <channel id="Warner_Channel_HD_LEG">
+    <display-name>Warner Channel HD LEG</display-name>
+  </channel>
+  <channel id="Warner_Channel_SD_LEG">
+    <display-name>Warner Channel SD LEG</display-name>
+  </channel>
+  <channel id="Band_News_FHD">
+    <display-name>Band News FHD</display-name>
+  </channel>
+  <channel id="Band_News_FHD_Alter">
+    <display-name>Band News FHD [Alter]</display-name>
+  </channel>
+  <channel id="Band_News_HD">
+    <display-name>Band News HD</display-name>
+  </channel>
+  <channel id="Band_News_HD_Alter">
+    <display-name>Band News HD [Alter]</display-name>
+  </channel>
+  <channel id="Band_News_SD">
+    <display-name>Band News SD</display-name>
+  </channel>
+  <channel id="Band_News_SD_Alter">
+    <display-name>Band News SD [Alter]</display-name>
+  </channel>
+  <channel id="CNN_Brasil_FHD">
+    <display-name>CNN Brasil FHD</display-name>
+  </channel>
+  <channel id="CNN_Brasil_FHD_Alter">
+    <display-name>CNN Brasil FHD [Alter]</display-name>
+  </channel>
+  <channel id="CNN_Brasil_HD">
+    <display-name>CNN Brasil HD</display-name>
+  </channel>
+  <channel id="CNN_Brasil_HD_Alter">
+    <display-name>CNN Brasil HD [Alter]</display-name>
+  </channel>
+  <channel id="CNN_Brasil_SD">
+    <display-name>CNN Brasil SD</display-name>
+  </channel>
+  <channel id="CNN_Brasil_SD_Alter">
+    <display-name>CNN Brasil SD [Alter]</display-name>
+  </channel>
+  <channel id="CNN_Internacional_SD">
+    <display-name>CNN Internacional SD</display-name>
+  </channel>
+  <channel id="Eurochannel_FHD">
+    <display-name>Eurochannel FHD</display-name>
+  </channel>
+  <channel id="Globo_News_FHD">
+    <display-name>Globo News FHD</display-name>
+  </channel>
+  <channel id="Globo_News_FHD_Alter">
+    <display-name>Globo News FHD [Alter]</display-name>
+  </channel>
+  <channel id="Globo_News_HD">
+    <display-name>Globo News HD</display-name>
+  </channel>
+  <channel id="Globo_News_HD_Alter">
+    <display-name>Globo News HD [Alter]</display-name>
+  </channel>
+  <channel id="Globo_News_SD">
+    <display-name>Globo News SD</display-name>
+  </channel>
+  <channel id="Globo_News_SD_Alter">
+    <display-name>Globo News SD [Alter]</display-name>
+  </channel>
+  <channel id="Jovem_Pan_News_FHD">
+    <display-name>Jovem Pan News FHD</display-name>
+  </channel>
+  <channel id="Jovem_Pan_News_HD">
+    <display-name>Jovem Pan News HD</display-name>
+  </channel>
+  <channel id="Jovem_Pan_News_SD">
+    <display-name>Jovem Pan News SD</display-name>
+  </channel>
+  <channel id="NHK_SD">
+    <display-name>NHK SD</display-name>
+  </channel>
+  <channel id="Record_News_HD">
+    <display-name>Record News HD</display-name>
+  </channel>
+  <channel id="Record_News_HD_Alter">
+    <display-name>Record News HD [Alter]</display-name>
+  </channel>
+  <channel id="Record_News_SD">
+    <display-name>Record News SD</display-name>
+  </channel>
+  <channel id="Record_News_SD_Alter">
+    <display-name>Record News SD [Alter]</display-name>
+  </channel>
+  <channel id="SBT_News_FHD">
+    <display-name>SBT News FHD</display-name>
+  </channel>
+  <channel id="SBT_News_HD">
+    <display-name>SBT News HD</display-name>
+  </channel>
+  <channel id="SBT_NEWS_SD">
+    <display-name>SBT NEWS SD</display-name>
+  </channel>
+  <channel id="Times_CBN_FHD">
+    <display-name>Times CBN FHD</display-name>
+  </channel>
+  <channel id="Times_CBN_HD">
+    <display-name>Times CBN HD</display-name>
+  </channel>
+  <channel id="Times_CBN_SD">
+    <display-name>Times CBN SD</display-name>
+  </channel>
+  <channel id="UOL">
+    <display-name>UOL</display-name>
+  </channel>
+  <channel id="UOL_FHD_Alter">
+    <display-name>UOL FHD [Alter]</display-name>
+  </channel>
+  <channel id="UOL_HD_Alter">
+    <display-name>UOL HD [Alter]</display-name>
+  </channel>
+  <channel id="UOL_SD_Alter">
+    <display-name>UOL SD [Alter]</display-name>
+  </channel>
+  <channel id="Paramount_Libertadores">
+    <display-name>Paramount+ Libertadores</display-name>
+  </channel>
+  <channel id="Paramount_Libertadores_Alter">
+    <display-name>Paramount+ Libertadores [Alter]</display-name>
+  </channel>
+  <channel id="Paramount_1_Libertadores">
+    <display-name>Paramount+¹ Libertadores</display-name>
+  </channel>
+  <channel id="Paramount_1_Libertadores_Alter">
+    <display-name>Paramount+¹ Libertadores [Alter]</display-name>
+  </channel>
+  <channel id="Paramount_2_Libertadores">
+    <display-name>Paramount+² Libertadores</display-name>
+  </channel>
+  <channel id="Paramount_2_Libertadores_Alter">
+    <display-name>Paramount+² Libertadores [Alter]</display-name>
+  </channel>
+  <channel id="Paramount_3_Libertadores">
+    <display-name>Paramount+³ Libertadores</display-name>
+  </channel>
+  <channel id="Paramount_3_Libertadores_Alter">
+    <display-name>Paramount+³ Libertadores [Alter]</display-name>
+  </channel>
+  <channel id="BBB_01">
+    <display-name>BBB 01</display-name>
+  </channel>
+  <channel id="BBB_02">
+    <display-name>BBB 02</display-name>
+  </channel>
+  <channel id="BBB_03">
+    <display-name>BBB 03</display-name>
+  </channel>
+  <channel id="BBB_04">
+    <display-name>BBB 04</display-name>
+  </channel>
+  <channel id="BBB_05">
+    <display-name>BBB 05</display-name>
+  </channel>
+  <channel id="BBB_06">
+    <display-name>BBB 06</display-name>
+  </channel>
+  <channel id="BBB_07">
+    <display-name>BBB 07</display-name>
+  </channel>
+  <channel id="BBB_08">
+    <display-name>BBB 08</display-name>
+  </channel>
+  <channel id="BBB_09">
+    <display-name>BBB 09</display-name>
+  </channel>
+  <channel id="BBB_10">
+    <display-name>BBB 10</display-name>
+  </channel>
+  <channel id="BBB_11">
+    <display-name>BBB 11</display-name>
+  </channel>
+  <channel id="BBB_Mosaico">
+    <display-name>BBB Mosaico</display-name>
+  </channel>
+  <channel id="Prime_Video1">
+    <display-name>Prime Video¹</display-name>
+  </channel>
+  <channel id="Prime_Video1_Alter1">
+    <display-name>Prime Video¹ [Alter¹]</display-name>
+  </channel>
+  <channel id="Prime_Video2">
+    <display-name>Prime Video²</display-name>
+  </channel>
+  <channel id="Prime_Video3">
+    <display-name>Prime Video³</display-name>
+  </channel>
+  <channel id="Prime_Video4">
+    <display-name>Prime Video⁴</display-name>
+  </channel>
+  <channel id="Record_BA_HD">
+    <display-name>Record BA HD</display-name>
+  </channel>
+  <channel id="Record_BA_HD_Alter">
+    <display-name>Record BA HD [Alter]</display-name>
+  </channel>
+  <channel id="Record_BA_SD">
+    <display-name>Record BA SD</display-name>
+  </channel>
+  <channel id="Record_BA_SD_Alter">
+    <display-name>Record BA SD [Alter]</display-name>
+  </channel>
+  <channel id="Record_DF_HD">
+    <display-name>Record DF HD</display-name>
+  </channel>
+  <channel id="Record_DF_HD_Alter">
+    <display-name>Record DF HD [Alter]</display-name>
+  </channel>
+  <channel id="Record_DF_SD">
+    <display-name>Record DF SD</display-name>
+  </channel>
+  <channel id="Record_DF_SD_Alter">
+    <display-name>Record DF SD [Alter]</display-name>
+  </channel>
+  <channel id="Record_Litoral_e_Vale_do_Paraiba_FHD">
+    <display-name>Record Litoral e Vale do Paraiba FHD</display-name>
+  </channel>
+  <channel id="Record_Litoral_e_Vale_do_Paraiba_HD">
+    <display-name>Record Litoral e Vale do Paraiba HD</display-name>
+  </channel>
+  <channel id="Record_MG_SD">
+    <display-name>Record MG SD</display-name>
+  </channel>
+  <channel id="Record_MG_SD_Alter">
+    <display-name>Record MG SD [Alter]</display-name>
+  </channel>
+  <channel id="Record_NDTV_Santa_Catarina_HD">
+    <display-name>Record NDTV Santa Catarina HD</display-name>
+  </channel>
+  <channel id="Record_NDTV_Santa_Catarina_SD">
+    <display-name>Record NDTV Santa Catarina SD</display-name>
+  </channel>
+  <channel id="Record_RIC_TV_Parana_HD">
+    <display-name>Record RIC TV Parana HD</display-name>
+  </channel>
+  <channel id="Record_RIC_TV_Parana_SD">
+    <display-name>Record RIC TV Parana SD</display-name>
+  </channel>
+  <channel id="Record_RJ_SD">
+    <display-name>Record RJ SD</display-name>
+  </channel>
+  <channel id="Record_RJ_SD_Alter">
+    <display-name>Record RJ SD [Alter]</display-name>
+  </channel>
+  <channel id="Record_RS_HD">
+    <display-name>Record RS HD</display-name>
+  </channel>
+  <channel id="Record_RS_HD_Alter">
+    <display-name>Record RS HD [Alter]</display-name>
+  </channel>
+  <channel id="Record_RS_SD">
+    <display-name>Record RS SD</display-name>
+  </channel>
+  <channel id="Record_RS_SD_Alter">
+    <display-name>Record RS SD [Alter]</display-name>
+  </channel>
+  <channel id="Record_SP_FHD">
+    <display-name>Record SP FHD</display-name>
+  </channel>
+  <channel id="Record_SP_HD">
+    <display-name>Record SP HD</display-name>
+  </channel>
+  <channel id="Record_SP_HD_Alter">
+    <display-name>Record SP HD [Alter]</display-name>
+  </channel>
+  <channel id="Record_SP_SD">
+    <display-name>Record SP SD</display-name>
+  </channel>
+  <channel id="Record_SP_SD_Alter">
+    <display-name>Record SP SD [Alter]</display-name>
+  </channel>
+  <channel id="Boa_Vontade_SD">
+    <display-name>Boa Vontade SD</display-name>
+  </channel>
+  <channel id="Cancao_Nova_SD">
+    <display-name>Cancao Nova SD</display-name>
+  </channel>
+  <channel id="Cancao_Nova_SD_Alter">
+    <display-name>Cancao Nova SD [Alter]</display-name>
+  </channel>
+  <channel id="Novo_Tempo_SD">
+    <display-name>Novo Tempo SD</display-name>
+  </channel>
+  <channel id="Pai_Eterno_FHD">
+    <display-name>Pai Eterno FHD</display-name>
+  </channel>
+  <channel id="Pai_Eterno_HD">
+    <display-name>Pai Eterno HD</display-name>
+  </channel>
+  <channel id="Pai_Eterno_SD">
+    <display-name>Pai Eterno SD</display-name>
+  </channel>
+  <channel id="Rede_Gospel_FHD">
+    <display-name>Rede Gospel FHD</display-name>
+  </channel>
+  <channel id="Rede_Gospel_HD">
+    <display-name>Rede Gospel HD</display-name>
+  </channel>
+  <channel id="Rede_Gospel_SD">
+    <display-name>Rede Gospel SD</display-name>
+  </channel>
+  <channel id="Rede_Super_SD">
+    <display-name>Rede Super SD</display-name>
+  </channel>
+  <channel id="Rede_Vida_HD">
+    <display-name>Rede Vida HD</display-name>
+  </channel>
+  <channel id="Rede_Vida_SD">
+    <display-name>Rede Vida SD</display-name>
+  </channel>
+  <channel id="RIT_SD">
+    <display-name>RIT SD</display-name>
+  </channel>
+  <channel id="RIT_SD_Alter">
+    <display-name>RIT SD [Alter]</display-name>
+  </channel>
+  <channel id="TV_Aparecida_SD">
+    <display-name>TV Aparecida SD</display-name>
+  </channel>
+  <channel id="TV_Aparecida_SD_Alter">
+    <display-name>TV Aparecida SD [Alter]</display-name>
+  </channel>
+  <channel id="UFC_Fight_Pass1">
+    <display-name>UFC Fight Pass¹</display-name>
+  </channel>
+  <channel id="UFC_Fight_Pass2">
+    <display-name>UFC Fight Pass²</display-name>
+  </channel>
+  <channel id="UFC_Fight_Pass3">
+    <display-name>UFC Fight Pass³</display-name>
+  </channel>
+  <channel id="AgroMais_FHD">
+    <display-name>AgroMais FHD</display-name>
+  </channel>
+  <channel id="AgroMais_HD">
+    <display-name>AgroMais HD</display-name>
+  </channel>
+  <channel id="AgroMais_SD">
+    <display-name>AgroMais SD</display-name>
+  </channel>
+  <channel id="Arte_1_FHD">
+    <display-name>Arte 1 FHD</display-name>
+  </channel>
+  <channel id="Arte_1_FHD_Alter">
+    <display-name>Arte 1 FHD [Alter]</display-name>
+  </channel>
+  <channel id="Arte_1_HD">
+    <display-name>Arte 1 HD</display-name>
+  </channel>
+  <channel id="Arte_1_HD_Alter">
+    <display-name>Arte 1 HD [Alter]</display-name>
+  </channel>
+  <channel id="Arte_1_SD">
+    <display-name>Arte 1 SD</display-name>
+  </channel>
+  <channel id="Arte_1_SD_Alter">
+    <display-name>Arte 1 SD [Alter]</display-name>
+  </channel>
+  <channel id="BIS_FHD">
+    <display-name>BIS FHD</display-name>
+  </channel>
+  <channel id="BIS_FHD_Alter">
+    <display-name>BIS FHD [Alter]</display-name>
+  </channel>
+  <channel id="BIS_HD">
+    <display-name>BIS HD</display-name>
+  </channel>
+  <channel id="BIS_HD_Alter">
+    <display-name>BIS HD [Alter]</display-name>
+  </channel>
+  <channel id="BIS_SD">
+    <display-name>BIS SD</display-name>
+  </channel>
+  <channel id="BIS_SD_Alter">
+    <display-name>BIS SD [Alter]</display-name>
+  </channel>
+  <channel id="Canal_Adult_Swim_FHD">
+    <display-name>Canal Adult Swim FHD</display-name>
+  </channel>
+  <channel id="Canal_Adult_Swim_HD">
+    <display-name>Canal Adult Swim HD</display-name>
+  </channel>
+  <channel id="Canal_Adult_Swim_SD">
+    <display-name>Canal Adult Swim SD</display-name>
+  </channel>
+  <channel id="Comedy_Central_FHD">
+    <display-name>Comedy Central FHD</display-name>
+  </channel>
+  <channel id="Comedy_Central_HD">
+    <display-name>Comedy Central HD</display-name>
+  </channel>
+  <channel id="Comedy_Central_HD_Alter">
+    <display-name>Comedy Central HD [Alter]</display-name>
+  </channel>
+  <channel id="Comedy_Central_SD">
+    <display-name>Comedy Central SD</display-name>
+  </channel>
+  <channel id="Comedy_Central_SD_Alter">
+    <display-name>Comedy Central SD [Alter]</display-name>
+  </channel>
+  <channel id="Curta_FHD">
+    <display-name>Curta FHD</display-name>
+  </channel>
+  <channel id="Curta_HD">
+    <display-name>Curta HD</display-name>
+  </channel>
+  <channel id="Curta_SD">
+    <display-name>Curta SD</display-name>
+  </channel>
+  <channel id="E_Entertainment_Television">
+    <display-name>E! Entertainment Television</display-name>
+  </channel>
+  <channel id="E_Entertainment_Television_FHD">
+    <display-name>E! Entertainment Television FHD</display-name>
+  </channel>
+  <channel id="E_Entertainment_Television_HD">
+    <display-name>E! Entertainment Television HD</display-name>
+  </channel>
+  <channel id="Fashion_TV_FHD">
+    <display-name>Fashion TV FHD</display-name>
+  </channel>
+  <channel id="Fashion_TV_HD">
+    <display-name>Fashion TV HD</display-name>
+  </channel>
+  <channel id="Fashion_TV_SD">
+    <display-name>Fashion TV SD</display-name>
+  </channel>
+  <channel id="Food_Network_FHD">
+    <display-name>Food Network FHD</display-name>
+  </channel>
+  <channel id="Food_Network_FHD_Alter">
+    <display-name>Food Network FHD [Alter]</display-name>
+  </channel>
+  <channel id="Food_Network_HD">
+    <display-name>Food Network HD</display-name>
+  </channel>
+  <channel id="Food_Network_HD_Alter">
+    <display-name>Food Network HD [Alter]</display-name>
+  </channel>
+  <channel id="Food_Network_SD">
+    <display-name>Food Network SD</display-name>
+  </channel>
+  <channel id="Food_Network_SD_Alter">
+    <display-name>Food Network SD [Alter]</display-name>
+  </channel>
+  <channel id="GNT_FHD">
+    <display-name>GNT FHD</display-name>
+  </channel>
+  <channel id="GNT_FHD_Alter">
+    <display-name>GNT FHD [Alter]</display-name>
+  </channel>
+  <channel id="GNT_HD">
+    <display-name>GNT HD</display-name>
+  </channel>
+  <channel id="GNT_HD_Alter">
+    <display-name>GNT HD [Alter]</display-name>
+  </channel>
+  <channel id="GNT_SD">
+    <display-name>GNT SD</display-name>
+  </channel>
+  <channel id="GNT_SD_Alter">
+    <display-name>GNT SD [Alter]</display-name>
+  </channel>
+  <channel id="Lifetime_FHD">
+    <display-name>Lifetime FHD</display-name>
+  </channel>
+  <channel id="Lifetime_FHD_Alter">
+    <display-name>Lifetime FHD [Alter]</display-name>
+  </channel>
+  <channel id="Lifetime_HD">
+    <display-name>Lifetime HD</display-name>
+  </channel>
+  <channel id="Lifetime_HD_Alter">
+    <display-name>Lifetime HD [Alter]</display-name>
+  </channel>
+  <channel id="Lifetime_SD">
+    <display-name>Lifetime SD</display-name>
+  </channel>
+  <channel id="Lifetime_SD_Alter">
+    <display-name>Lifetime SD [Alter]</display-name>
+  </channel>
+  <channel id="Mais_Globosat_FHD">
+    <display-name>Mais Globosat FHD</display-name>
+  </channel>
+  <channel id="Mais_Globosat_HD">
+    <display-name>Mais Globosat HD</display-name>
+  </channel>
+  <channel id="Mais_Globosat_SD">
+    <display-name>Mais Globosat SD</display-name>
+  </channel>
+  <channel id="Modo_Viagem">
+    <display-name>Modo Viagem</display-name>
+  </channel>
+  <channel id="Multishow_FHD">
+    <display-name>Multishow FHD</display-name>
+  </channel>
+  <channel id="Multishow_FHD_Alter">
+    <display-name>Multishow FHD [Alter]</display-name>
+  </channel>
+  <channel id="Multishow_HD">
+    <display-name>Multishow HD</display-name>
+  </channel>
+  <channel id="Multishow_HD_Alter">
+    <display-name>Multishow HD [Alter]</display-name>
+  </channel>
+  <channel id="Multishow_SD">
+    <display-name>Multishow SD</display-name>
+  </channel>
+  <channel id="Multishow_SD_Alter">
+    <display-name>Multishow SD [Alter]</display-name>
+  </channel>
+  <channel id="Music_Box_Brazil_HD">
+    <display-name>Music Box Brazil HD</display-name>
+  </channel>
+  <channel id="Music_Box_Brazil_HD_Alter">
+    <display-name>Music Box Brazil HD [Alter]</display-name>
+  </channel>
+  <channel id="Music_Box_Brazil_SD">
+    <display-name>Music Box Brazil SD</display-name>
+  </channel>
+  <channel id="Music_Box_Brazil_SD_Alter">
+    <display-name>Music Box Brazil SD [Alter]</display-name>
+  </channel>
+  <channel id="NBR_SD">
+    <display-name>NBR SD</display-name>
+  </channel>
+  <channel id="Play_TV">
+    <display-name>Play TV</display-name>
+  </channel>
+  <channel id="TLC_FHD">
+    <display-name>TLC FHD</display-name>
+  </channel>
+  <channel id="TLC_FHD_Alter">
+    <display-name>TLC FHD [Alter]</display-name>
+  </channel>
+  <channel id="TLC_HD">
+    <display-name>TLC HD</display-name>
+  </channel>
+  <channel id="TLC_HD_Alter">
+    <display-name>TLC HD [Alter]</display-name>
+  </channel>
+  <channel id="TLC_SD">
+    <display-name>TLC SD</display-name>
+  </channel>
+  <channel id="TLC_SD_Alter">
+    <display-name>TLC SD [Alter]</display-name>
+  </channel>
+  <channel id="Trace_Brazuca_FHD">
+    <display-name>Trace Brazuca FHD</display-name>
+  </channel>
+  <channel id="Trace_Brazuca_HD">
+    <display-name>Trace Brazuca HD</display-name>
+  </channel>
+  <channel id="Trace_Brazuca_SD">
+    <display-name>Trace Brazuca SD</display-name>
+  </channel>
+  <channel id="Travel_Box_Brazil_FHD">
+    <display-name>Travel Box Brazil FHD</display-name>
+  </channel>
+  <channel id="TV_Justica_SD">
+    <display-name>TV Justiça SD</display-name>
+  </channel>
+  <channel id="TV_Justica_SD_Alter">
+    <display-name>TV Justiça SD [Alter]</display-name>
+  </channel>
+  <channel id="VH1_SD">
+    <display-name>VH1 SD</display-name>
+  </channel>
+  <channel id="Viva_FHD">
+    <display-name>Viva FHD</display-name>
+  </channel>
+  <channel id="Viva_FHD_Alter">
+    <display-name>Viva FHD [Alter]</display-name>
+  </channel>
+  <channel id="Viva_HD">
+    <display-name>Viva HD</display-name>
+  </channel>
+  <channel id="Viva_HD_Alter">
+    <display-name>Viva HD [Alter]</display-name>
+  </channel>
+  <channel id="Viva_SD">
+    <display-name>Viva SD</display-name>
+  </channel>
+  <channel id="Viva_SD_Alter">
+    <display-name>Viva SD [Alter]</display-name>
+  </channel>
+</tv>
